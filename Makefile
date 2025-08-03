@@ -14,3 +14,7 @@ back-prod:
 front-dev:
 	(cd ../recipes/ui && npm run dev)
 
+
+preprocess-images:
+	(. .venv/bin/activate && FLASK_STATIC=$(pwd) python -m recipes.tools.preprocess_images)
+

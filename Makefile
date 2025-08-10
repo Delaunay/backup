@@ -18,14 +18,11 @@ back-prod:
 front-dev:
 	(cd ../recipes/ui && npm run dev)
 
-
 preprocess-images:
 	(. .venv/bin/activate && FLASK_STATIC=$(pwd) python -m recipes.tools.preprocess_images)
 
-
 update-db:
 	(. .venv/bin/activate && DATABASE_URI=sqlite://$(pwd)/database.db alembic -c ../recipes/alembic/alembic.ini upgrade head)
-
 
 make-migration:
 	(. .venv/bin/activate && DATABASE_URI=sqlite://$(pwd)/database.db alembic -c ../recipes/alembic/alembic.ini revision --autogenerate -m "migration")

@@ -70,7 +70,7 @@ jobs:
     - name: Build static website
       run: |
         source venv/bin/activate
-        python recipes/scripts/static_generator.py
+        FLASK_STATIC=$(pwd) python recipes/scripts/static_generator.py
         cp -R uploads recipes/static_build/api
       env:
         PYTHONPATH: ${{ github.workspace }}

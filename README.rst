@@ -46,3 +46,12 @@ Getting Started
     make back-dev &
     make front-dev &
 
+
+Database Change
+---------------
+
+if the recipe website make database updates you can propagate them to the database using
+
+.. code-block::
+
+   make update-db

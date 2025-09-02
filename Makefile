@@ -7,6 +7,9 @@ virtual-env:
 	virtualenv .venv
 	(. .venv/bin/activate && pip install -e recipes)
 
+install:
+	(. .venv/bin/activate && pip install -e recipes)
+
 back-dev:
 	(. .venv/bin/activate && FLASK_STATIC=$(pwd) flask --debug --app recipes.server.run:entry run --port 5001)
 
@@ -24,3 +27,9 @@ update-db:
 
 make-migration:
 	(. .venv/bin/activate && DATABASE_URI=sqlite://$(pwd)/database.db alembic -c recipes/recipes/alembic/alembic.ini revision --autogenerate -m "migration")
+
+
+telegram:
+	(. .venv/bin/activate && python recipes/recipes/server/messaging.py)
+
+	

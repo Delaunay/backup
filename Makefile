@@ -32,4 +32,5 @@ make-migration:
 telegram:
 	(. .venv/bin/activate && python recipes/recipes/server/messaging.py)
 
-	
+test-deploy:
+	(. .venv/bin/activate && FLASK_STATIC=$(pwd) python recipes/scripts/static_generator.py)

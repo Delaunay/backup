@@ -1,3 +1,7 @@
 .venv/
 node_modules/
 recipes/
+
+
+GarminDB/
+usda_fdc/

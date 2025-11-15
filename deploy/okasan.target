@@ -1,0 +1,7 @@
+[Unit]
+Description=okasan
+Requires=okasan-flask.service okasan-vite.service
+After=network.target
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,19 @@
+[Unit]
+Description=okasan-flask
+After=network.target
+
+[Service]
+Type=simple
+User=setepenre
+WorkingDirectory=/home/setepenre/work/website
+Environment=FDC_API_KEY=tXSwKmAk5Y3nWz8ZavdAnWRLempYL8zFhOc9qzxa
+Environment=FLASK_STATIC=/home/setepenre/work/website
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/home/setepenre/work/website/.venv/bin/flask --debug --app recipes.server.run:entry run --port 5001
+Restart=always
+RestartSec=2
+# If the reloader spawns children, avoid systemd killing the whole process tree:
+KillMode=process
+
+[Install]
+WantedBy=okasan.target

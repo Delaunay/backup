@@ -10,12 +10,12 @@ Folder Structure
 .. code-block::
 
     website/
-    ├── .github/             Built website
+    ├── .github/             CI
     │   └── workflow
     |       └── deploy.yml   Deploy automatically to github pages
     ├── .venv                Python virtualenv for the server
     ├── static/              Built website
-    ├── uploads/             Image and uploaded files
+    ├── uploads/             Images and uploaded files
     ├── recipes/             Website Code
     │   └── recipes
     │       ├── server       Flask Back End

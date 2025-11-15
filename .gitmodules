@@ -2,3 +2,9 @@
 	path = recipes
 	url = https://github.com/Delaunay/recipes.git
 	branch = master
+[submodule "usda_fdc"]
+	path = usda_fdc
+	url = https://github.com/mcgarrah/usda_fdc_python
+[submodule "GarminDB"]
+	path = GarminDB
+	url = https://github.com/tcgoetz/GarminDB.git

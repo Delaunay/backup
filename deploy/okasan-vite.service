@@ -1,0 +1,20 @@
+[Unit]
+Description=React Frontend Dev Server
+After=network.target
+
+[Service]
+Type=simple
+User=setepenre
+WorkingDirectory=/home/setepenre/work/website/recipes/recipes/ui
+Environment=NODE_ENV=development
+Environment=HOME=/home/setepenre
+Environment=PATH=/home/setepenre/.nvm/versions/node/v22.17.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+ExecStartPre=/home/setepenre/.nvm/versions/node/v22.17.1/bin/npm ci --silent
+ExecStart=/home/setepenre/.nvm/versions/node/v22.17.1/bin/npm run dev
+
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=okasan.target

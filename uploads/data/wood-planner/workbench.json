@@ -1,0 +1,251 @@
+{
+  "stocks": [
+    {
+      "id": 1774284402739,
+      "nominal": "4x4",
+      "lengthInput": "8ft",
+      "length": 2438.4,
+      "widthInput": "",
+      "width": 0,
+      "price": 63.39,
+      "label": "4x4x8 Cedar",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402741,
+      "nominal": "2x4",
+      "lengthInput": "10ft",
+      "length": 3048,
+      "widthInput": "",
+      "width": 0,
+      "price": 23.29,
+      "label": "2x4x10 Cedar",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402743,
+      "nominal": "2x4",
+      "lengthInput": "8ft",
+      "length": 2438.4,
+      "widthInput": "",
+      "width": 0,
+      "price": 18.59,
+      "label": "2x4x8 Cedar",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402745,
+      "nominal": "1x4",
+      "lengthInput": "8ft",
+      "length": 2438.4,
+      "widthInput": "",
+      "width": 0,
+      "price": 12.59,
+      "label": "1x4x8 Cedar",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402747,
+      "nominal": "ply 3/4",
+      "lengthInput": "60in",
+      "length": 1524,
+      "widthInput": "60in",
+      "width": 1524,
+      "price": 149,
+      "label": "ply 3/4 lumber",
+      "kind": "sheet"
+    },
+    {
+      "id": 1774284402749,
+      "nominal": "ply 3/4",
+      "lengthInput": "4ft",
+      "length": 1219.2,
+      "widthInput": "8ft",
+      "width": 2438.4,
+      "price": 169,
+      "label": "ply 3/4 lumber",
+      "kind": "sheet"
+    },
+    {
+      "id": 1774286695736,
+      "nominal": "ply 3/4pl",
+      "lengthInput": "72in",
+      "length": 1828.8,
+      "widthInput": "20in",
+      "width": 508,
+      "price": 50.39,
+      "label": "PL1206",
+      "kind": "sheet"
+    }
+  ],
+  "cuts": [
+    {
+      "id": 3,
+      "nominal": "4x4",
+      "lengthInput": "80cm",
+      "length": 800,
+      "widthInput": "",
+      "width": 0,
+      "quantity": 8,
+      "label": "Legs",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402751,
+      "nominal": "2x4",
+      "lengthInput": "50cm",
+      "length": 500,
+      "widthInput": "",
+      "width": 0,
+      "quantity": 18,
+      "label": "Small",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402753,
+      "nominal": "2x4",
+      "lengthInput": "150cm",
+      "length": 1500,
+      "widthInput": "",
+      "width": 0,
+      "quantity": 6,
+      "label": "Long",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402755,
+      "nominal": "2x4",
+      "lengthInput": "75.62 cm",
+      "length": 756.2,
+      "widthInput": "",
+      "width": 0,
+      "quantity": 4,
+      "label": "Sheer",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402757,
+      "nominal": "2x4",
+      "lengthInput": "190 cm",
+      "length": 1900,
+      "widthInput": "",
+      "width": 0,
+      "quantity": 2,
+      "label": "Sup",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402759,
+      "nominal": "1x4",
+      "lengthInput": "63.5 cm",
+      "length": 635,
+      "widthInput": "",
+      "width": 0,
+      "quantity": 14,
+      "label": "Holder",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402761,
+      "nominal": "ply 3/4",
+      "lengthInput": "85.5 cm",
+      "length": 855,
+      "widthInput": "52.18 cm",
+      "width": 521.8,
+      "quantity": 2,
+      "label": "Top Bottom",
+      "kind": "sheet"
+    },
+    {
+      "id": 1774284402763,
+      "nominal": "ply 3/4",
+      "lengthInput": "83.5 cm",
+      "length": 835,
+      "widthInput": "53.34 cm",
+      "width": 533.4000000000001,
+      "quantity": 2,
+      "label": "Left Right",
+      "kind": "sheet"
+    },
+    {
+      "id": 1774284402765,
+      "nominal": "ply 3/4",
+      "lengthInput": "52.18 cm",
+      "length": 521.8,
+      "widthInput": "53.34 cm",
+      "width": 533.4000000000001,
+      "quantity": 2,
+      "label": "Front Back",
+      "kind": "sheet"
+    },
+    {
+      "id": 1774284402767,
+      "nominal": "ply 3/4",
+      "lengthInput": "50 cm",
+      "length": 500,
+      "widthInput": "50 cm",
+      "width": 500,
+      "quantity": 2,
+      "label": "3D Top Bottom",
+      "kind": "sheet"
+    },
+    {
+      "id": 1774284402769,
+      "nominal": "ply 3/4",
+      "lengthInput": "50 cm",
+      "length": 500,
+      "widthInput": "30 cm",
+      "width": 300,
+      "quantity": 4,
+      "label": "Sides",
+      "kind": "sheet"
+    },
+    {
+      "id": 1774284402771,
+      "nominal": "1x4",
+      "lengthInput": "20 cm",
+      "length": 200,
+      "widthInput": "",
+      "width": 0,
+      "quantity": 1,
+      "label": "Brace 20",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402773,
+      "nominal": "1x4",
+      "lengthInput": "50 cm",
+      "length": 500,
+      "widthInput": "",
+      "width": 0,
+      "quantity": 1,
+      "label": "Base 50",
+      "kind": "lumber"
+    },
+    {
+      "id": 1774284402775,
+      "nominal": "ply 3/4pl",
+      "lengthInput": "150 cm",
+      "length": 1500,
+      "widthInput": "50 cm",
+      "width": 500,
+      "quantity": 2,
+      "label": "WorkArea",
+      "kind": "sheet"
+    },
+    {
+      "id": 1774284402777,
+      "nominal": "ply 3/4",
+      "lengthInput": "50 cm",
+      "length": 500,
+      "widthInput": "190 cm",
+      "width": 1900,
+      "quantity": 6,
+      "label": "Backsplash",
+      "kind": "sheet"
+    }
+  ],
+  "kerf": 3,
+  "taxRate": 14.975,
+  "clearance": 3.175
+}

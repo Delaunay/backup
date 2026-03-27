@@ -1,0 +1,234 @@
+{
+  "user": {
+    "username": "jabor",
+    "private": false,
+    "deleted": false,
+    "name": "jabor",
+    "vip": false,
+    "vip_ep": false,
+    "director": false,
+    "ids": {
+      "slug": "jabor",
+      "trakt": 923731,
+      "uuid": "fff4c2ed711ee420898504ec1edbd95ad540bf88"
+    },
+    "joined_at": "2015-03-05T21:51:02.000Z",
+    "location": "",
+    "about": "",
+    "gender": "",
+    "age": null,
+    "images": {
+      "avatar": {
+        "full": "https://secure.gravatar.com/avatar/ea0712f643e3e725f1a7a4da6bf57043?d=https%3A%2F%2Fwalter-r2.trakt.tv%2Fhotlink-ok%2Fplaceholders%2Fmedium%2Fzoidberg.png&r=pg&s=256"
+      }
+    },
+    "vip_og": false,
+    "vip_years": 0,
+    "vip_cover_image": null,
+    "dob": null,
+    "email": "setepenre@outlook.com"
+  },
+  "account": {
+    "timezone": "Europe/London",
+    "date_format": "mdy",
+    "time_24hr": true,
+    "cover_image": null,
+    "token": null,
+    "display_ads": true
+  },
+  "browsing": {
+    "watch_popup_action": "ask",
+    "hide_watching_now": false,
+    "list_popup_action": "ask",
+    "week_start_day": "1",
+    "watch_after_rating": "",
+    "watch_only_once": false,
+    "other_site_ratings": false,
+    "release_date_ignore_runtime": false,
+    "display_early_ratings": false,
+    "hide_episode_type_tags": false,
+    "hide_unsaved_filters_prompt": false,
+    "spoilers": {
+      "episodes": "show",
+      "shows": "show",
+      "movies": "show",
+      "comments": "show",
+      "ratings": "show",
+      "actors": "show"
+    },
+    "calendar": {
+      "period": "week",
+      "start_day": "today",
+      "layout": "list",
+      "image_type": "logo",
+      "hide_specials": false,
+      "autoscroll": false
+    },
+    "progress": {
+      "on_deck": {
+        "sort": "added",
+        "sort_how": "asc",
+        "refresh": false,
+        "simple_progress": false,
+        "only_favorites": false
+      },
+      "watched": {
+        "refresh": false,
+        "simple_progress": false,
+        "include_specials": false,
+        "include_watchlisted": false,
+        "include_collected": false,
+        "sort": "added",
+        "sort_how": "asc",
+        "use_last_activity": false,
+        "grid_view": false
+      },
+      "collected": {
+        "refresh": false,
+        "simple_progress": false,
+        "include_specials": false,
+        "include_watchlisted": false,
+        "include_watched": false,
+        "sort": "added",
+        "sort_how": "asc",
+        "use_last_activity": false,
+        "grid_view": false
+      }
+    },
+    "watchnow": {
+      "country": "us",
+      "favorites": [],
+      "only_favorites": false
+    },
+    "dark_knight": "true",
+    "app_theme": "purple",
+    "welcome": {
+      "completed_at": null,
+      "exit_step": null
+    },
+    "genres": {
+      "favorites": null,
+      "disliked": null
+    },
+    "comments": {
+      "blocked_uids": []
+    },
+    "recommendations": {
+      "ignore_collected": false,
+      "ignore_watchlisted": false
+    },
+    "rewatching": {
+      "adjust_percentage": false
+    },
+    "profile": {
+      "favorites": {
+        "sort_by": "random",
+        "sort_how": "asc"
+      },
+      "most_watched_shows": {
+        "sort_by": "plays",
+        "tab": "last_30_days"
+      },
+      "most_watched_movies": {
+        "sort_by": "time",
+        "tab": "last_30_days"
+      }
+    },
+    "search": {
+      "image_type": "poster",
+      "recent_queries": [
+        {
+          "type": "shows",
+          "query": "night manager",
+          "created_at": 1768614921
+        },
+        {
+          "type": "shows",
+          "query": "the day of the jackal",
+          "created_at": 1753200155
+        },
+        {
+          "type": "shows",
+          "query": "shōgun",
+          "created_at": 1752190696
+        },
+        {
+          "type": "all",
+          "query": "the newsroom",
+          "created_at": 1751650043
+        },
+        {
+          "type": "all",
+          "query": "bref 2",
+          "created_at": 1740612433
+        }
+      ]
+    },
+    "yir": {
+      "shows_most_played": "played",
+      "movies_most_played": "watched"
+    }
+  },
+  "connections": {
+    "facebook": false,
+    "twitter": false,
+    "mastodon": false,
+    "google": false,
+    "tumblr": false,
+    "medium": false,
+    "slack": false,
+    "apple": false,
+    "dropbox": false,
+    "microsoft": false
+  },
+  "sharing_text": {
+    "watching": "I'm watching [item]",
+    "watched": "I just watched [item]",
+    "rated": null
+  },
+  "sharing": {
+    "app": {
+      "new_follower": true,
+      "comment_mention": true,
+      "comment_reply": true,
+      "comment_like": true,
+      "list_comment": true,
+      "list_like": true,
+      "pending_collaboration": true,
+      "weekly_digest": true,
+      "mir": true
+    }
+  },
+  "limits": {
+    "list": {
+      "count": 10,
+      "item_count": 250
+    },
+    "watchlist": {
+      "item_count": 250
+    },
+    "favorites": {
+      "item_count": 100
+    },
+    "search": {
+      "recent_count": 5
+    },
+    "collection": {
+      "item_count": 100
+    },
+    "notes": {
+      "item_count": 100
+    },
+    "saved_filters": {
+      "count": 5
+    },
+    "recommendations": {
+      "item_count": 100
+    }
+  },
+  "permissions": {
+    "commenting": true,
+    "liking": true,
+    "following": true
+  }
+}

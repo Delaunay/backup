@@ -1,0 +1,16 @@
+[
+  {
+    "name": "BMO",
+    "columnMap": {
+      "Item #": "",
+      "Card #": "",
+      "Transaction Date": "date",
+      "Posting Date": "",
+      "Transaction Amount": "amount",
+      "Description\r": "comment"
+    },
+    "dateFormat": "YYYYMMDD",
+    "defaultBank": "BMO",
+    "skipRows": 2
+  }
+]

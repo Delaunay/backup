@@ -1,0 +1,156 @@
+[
+  {
+    "id": "income",
+    "name": "Income",
+    "taxDeductible": false,
+    "notes": "",
+    "icon": "\ud83d\udcb0"
+  },
+  {
+    "id": "grocery",
+    "name": "Grocery",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83d\uded2"
+  },
+  {
+    "id": "daily-necessity",
+    "name": "Daily necessity",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83c\udfea"
+  },
+  {
+    "id": "eat-out-norm",
+    "name": "Eat out (norm)",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83c\udf7d\ufe0f"
+  },
+  {
+    "id": "eat-out-biz",
+    "name": "Eat out (Business)",
+    "taxDeductible": true,
+    "notes": "On work day, 50% of cost",
+    "icon": "\ud83c\udf7d\ufe0f"
+  },
+  {
+    "id": "outfits-norm",
+    "name": "Outfits (norm)",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83d\udc54"
+  },
+  {
+    "id": "outfits-biz",
+    "name": "Outfits (Business)",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83d\udc54"
+  },
+  {
+    "id": "instrument",
+    "name": "Instrument",
+    "taxDeductible": true,
+    "notes": "Repair, strings, purchase new bow, etc.",
+    "icon": "\ud83c\udfb5"
+  },
+  {
+    "id": "entertainment",
+    "name": "Entertainment",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83c\udfad"
+  },
+  {
+    "id": "medical",
+    "name": "Medical expense",
+    "taxDeductible": true,
+    "notes": "Doctor, Dental, Massage, Spa, etc.",
+    "icon": "\ud83c\udfe5"
+  },
+  {
+    "id": "transport-biz",
+    "name": "Transportation (Business)",
+    "taxDeductible": true,
+    "notes": "STM, Car rental",
+    "icon": "\ud83d\ude8c"
+  },
+  {
+    "id": "transport",
+    "name": "Transportation",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83d\ude8c"
+  },
+  {
+    "id": "utility",
+    "name": "Utility",
+    "taxDeductible": true,
+    "notes": "Phone plan, wifi, Hydro",
+    "icon": "\u26a1"
+  },
+  {
+    "id": "rent",
+    "name": "Rent",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83c\udfe0"
+  },
+  {
+    "id": "work-tool",
+    "name": "Work tool",
+    "taxDeductible": true,
+    "notes": "Computer, iPad, etc.",
+    "icon": "\ud83d\udcbb"
+  },
+  {
+    "id": "travel",
+    "name": "Travel",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\u2708\ufe0f"
+  },
+  {
+    "id": "training",
+    "name": "Training cost",
+    "taxDeductible": true,
+    "notes": "Lesson, learning skill",
+    "icon": "\ud83d\udcda"
+  },
+  {
+    "id": "prof-fee",
+    "name": "Professional fee",
+    "taxDeductible": true,
+    "notes": "Guild fee, Accountant fee",
+    "icon": "\ud83d\udccb"
+  },
+  {
+    "id": "art-events",
+    "name": "Art related events",
+    "taxDeductible": true,
+    "notes": "Concerts, Museum, etc.",
+    "icon": "\ud83c\udfa8"
+  },
+  {
+    "id": "gst",
+    "name": "GST",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83d\udcb2"
+  },
+  {
+    "id": "buying-others",
+    "name": "Buying For Others",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83c\udf81"
+  },
+  {
+    "id": "friend-reimburse",
+    "name": "Friend Reimbursed",
+    "taxDeductible": true,
+    "notes": "",
+    "icon": "\ud83e\udd1d"
+  }
+]

@@ -1,0 +1,2065 @@
+{
+  "nodes": [
+    {
+      "id": "w1",
+      "title": "Rise of Right Wing",
+      "description": "Growing far-right movements globally, fueled by unhappiness, misinformation, and scapegoating of immigrants.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": -484.7283028814876,
+      "y": -1535.5814485573842
+    },
+    {
+      "id": "w2",
+      "title": "Lobbying",
+      "description": "Companies in charge of policies \u2014 fundamental conflict of interest.\nFake research able to impact policies.\nGreen washing: fake Carbon Neutral initiatives (1 step forward, 2 steps backward).",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 1125.1915457146074,
+      "y": -2044.5800191649473
+    },
+    {
+      "id": "w3",
+      "title": "Cost of Living",
+      "description": "Rising costs across food, accommodation, and utilities.\nMisinformation distorts public understanding of the real causes.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": -653.8929035527806,
+      "y": -2011.9789912796873
+    },
+    {
+      "id": "w4",
+      "title": "Climate Change",
+      "description": "Driven by CO2, methane, pollution.\nDenied through misinformation and fake research.\nIncludes climate denialism and fake research.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 520.9384580882594,
+      "y": -1129.8752543998637
+    },
+    {
+      "id": "w5",
+      "title": "Over Exploitation",
+      "description": "Overfishing, deforestation (forest burning to make space for farming), mining, steel, water table / aquifer depletion.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 1490.6618702800638,
+      "y": -1494.7316935967258
+    },
+    {
+      "id": "w6",
+      "title": "Pollution",
+      "description": "Causes illness and cancer.\nMicroplastics, pesticides (killing bees, causing cancer), air pollution (nano particles).\n\nMisinformation: fake research, consumer blaming (\"what pollutes the most?\"), buying new \"green\" cars pollutes as well.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 95.97254797280087,
+      "y": -1046.6608457767118
+    },
+    {
+      "id": "w7",
+      "title": "Illness",
+      "description": "COVID sequel \u2014 experts say it is only a matter of time.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": -470.9948468971455,
+      "y": -629.4485592595623
+    },
+    {
+      "id": "w8",
+      "title": "Food Supply",
+      "description": "Threatened by climate change.\nNeed for new crops.\nCaused by climate change disrupting agriculture.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 354.095400249858,
+      "y": -962.3671595249069
+    },
+    {
+      "id": "w9",
+      "title": "Antibiotic Resistance",
+      "description": "Growing resistance threatening the effectiveness of medical treatments worldwide.",
+      "timeframe": "long-term",
+      "scope": "worldwide",
+      "x": 247.67481314187694,
+      "y": -249.9794018840966
+    },
+    {
+      "id": "w10",
+      "title": "Unhappiness",
+      "description": "General population discontent driving political extremism.",
+      "timeframe": "short-term",
+      "scope": "societal",
+      "x": -959.8168966449297,
+      "y": -1561.7522669161785
+    },
+    {
+      "id": "w11",
+      "title": "Immigration Scapegoating",
+      "description": "Immigration used as easy blame target by right-wing movements.\nMatches patterns in Eco's definition of fascism.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": -789.583469273151,
+      "y": -1247.5402618561009
+    },
+    {
+      "id": "w12",
+      "title": "Eco's Fascism Definition",
+      "description": "Umberto Eco's features of fascism:\n\u2022 Cult of tradition\n\u2022 Rejection of modernism\n\u2022 Disagreement is treason\n\u2022 Fear of difference\n\u2022 Appeal to social frustration\n\u2022 The obsession of a plot\n\u2022 Humiliation by the wealth/force of others\n\u2022 Pacifism is trafficking with the enemy\n\u2022 Contempt for the weak",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": -484.1591117626561,
+      "y": -1162.713483962539
+    },
+    {
+      "id": "w13",
+      "title": "Corporate Policy Control",
+      "description": "Companies directly influencing and controlling policy decisions.\nFundamental conflict of interest between profit and public good.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 1411.9430712472167,
+      "y": -2151.1214003009163
+    },
+    {
+      "id": "w14",
+      "title": "Green Washing",
+      "description": "Fake Carbon Neutral initiatives.\n1 step forward, 2 steps backward.\nCreates illusion of progress while undermining real climate action.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 1485.9750201847394,
+      "y": -1668.6503834663363
+    },
+    {
+      "id": "w15",
+      "title": "Accommodation Crisis",
+      "description": "Causes:\n\u2022 Short term rentals (Airbnb)\n\u2022 Company ownership of housing\n\u2022 Foreign investment\n\nHigh demand: immigration, tourism, investment (low interest \u2192 housing speculation), globalization (anyone can buy anywhere).\n\nLow supply: slow to build, expensive space, lack of workforce, high construction cost (concrete is energy intensive), lots of building regulations, lack of space, no need to sell early.\n\nSolutions:\n\u2022 Countryside?\n\u2022 High density\n\u2022 We already have enough housing \u2014 how many are empty?\n\u2022 30% of office space is empty \u2192 transform to housing? (very expensive)\n\u2022 Subventions with conditions",
+      "timeframe": "short-term",
+      "scope": "regional",
+      "x": -1099.6555450132366,
+      "y": -1903.2776643326683
+    },
+    {
+      "id": "w16",
+      "title": "Utilities Crisis",
+      "description": "Water: over-use and waste.\nElectricity: energy crisis from Ukraine-Russia war.",
+      "timeframe": "short-term",
+      "scope": "regional",
+      "x": -1091.5574421463473,
+      "y": -1980.165042206245
+    },
+    {
+      "id": "w17",
+      "title": "Extreme Weather",
+      "description": "Thunder, floods, drought, forest fires.\nIncreasing frequency and intensity.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 1062.288579803018,
+      "y": -1123.746085517553
+    },
+    {
+      "id": "w18",
+      "title": "Ocean Acidification",
+      "description": "Ocean is the #1 reserve of CO2.\nMore CO2 \u2192 more acid \u2192 coral reef death.\nLong-term cascading effects on marine ecosystems.",
+      "timeframe": "long-term",
+      "scope": "worldwide",
+      "x": 761.0523785455131,
+      "y": -729.7690143736753
+    },
+    {
+      "id": "w19",
+      "title": "Fast Fashion",
+      "description": "Textile waste contributing to pollution and resource depletion.\nMassive environmental footprint from production and disposal.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 470.62760892532253,
+      "y": -685.5747902607942
+    },
+    {
+      "id": "w20",
+      "title": "Transportation",
+      "description": "Need to favor local production and consumption.\nSupply chain tracking and tracing needed for accountability.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 1474.1066313328058,
+      "y": -841.5281412094441
+    },
+    {
+      "id": "s1",
+      "title": "Outdated Growth Model",
+      "description": "Budgets are Ponzi Schemes \u2014 require endless growth.\nDeclining birth rate undermining the model.\nRelies on mass immigration to keep growing.\n\nHow long will countries let their citizens leave?",
+      "timeframe": "short-term",
+      "scope": "societal",
+      "x": -1489.2737361810573,
+      "y": -980.6896303375286
+    },
+    {
+      "id": "s2",
+      "title": "Loneliness Epidemic",
+      "description": "Growing isolation manifesting as:\n\u2022 Pet hoarding\n\u2022 Incel culture\n\u2022 Addictions",
+      "timeframe": "short-term",
+      "scope": "societal",
+      "x": -1256.2980615421704,
+      "y": -1739.4956145733968
+    },
+    {
+      "id": "s3",
+      "title": "Underfunded Education System",
+      "description": "Chronically low budget.\nUnable to adapt to modern needs and challenges.",
+      "timeframe": "short-term",
+      "scope": "societal",
+      "x": 443.87200911683806,
+      "y": -1793.458978814272
+    },
+    {
+      "id": "s4",
+      "title": "Under funded Health System",
+      "description": "Low budget.\nStruggling with growing elderly population.",
+      "timeframe": "short-term",
+      "scope": "societal",
+      "x": -914.5373169321621,
+      "y": -637.6488902071636
+    },
+    {
+      "id": "s5",
+      "title": "Obesity",
+      "description": "Driven by food quality and lack of dietary diversity.",
+      "timeframe": "short-term",
+      "scope": "societal",
+      "x": -1493.5227039685813,
+      "y": -567.7623463795137
+    },
+    {
+      "id": "s6",
+      "title": "Mass Immigration",
+      "description": "Challenges of inclusion and integration at scale.\nDriven by declining birth rate in developed countries.",
+      "timeframe": "short-term",
+      "scope": "societal",
+      "x": -1166.4405225233068,
+      "y": -1057.4095835960334
+    },
+    {
+      "id": "s7",
+      "title": "Artificial Intelligence",
+      "description": "Uncertain societal impact.\nPotential for both disruption and solutions.",
+      "timeframe": "unset",
+      "scope": "societal",
+      "x": -728.2367452581692,
+      "y": -3.214263484486999
+    },
+    {
+      "id": "s8",
+      "title": "Bias & Discrimination",
+      "description": "Systemic bias and discrimination embedded in institutions and society.",
+      "timeframe": "short-term",
+      "scope": "societal",
+      "x": -211.95860088353686,
+      "y": -1416.911352749424
+    },
+    {
+      "id": "s9",
+      "title": "Declining Birth Rate",
+      "description": "Already happening in developed countries.\nCountries rely on immigration to avoid economic breakdown.\nInadequate policies + mass immigration creates its own set of issues.\n\nWhile world population might start to decline in 2075, it is already happening in developed countries.\n\nSee: https://population.un.org/wpp/Graphs/DemographicProfiles/Line/900",
+      "timeframe": "long-term",
+      "scope": "societal",
+      "x": -1464.8404920222324,
+      "y": -1202.7730193323837
+    },
+    {
+      "id": "c1",
+      "title": "Misinformation",
+      "description": "Seems to be the crux of our society right now. Everything is impacted.\n\nKey questions:\n\u2022 How to find the right information?\n\u2022 How to reach the person needing the information?\n\u2022 How to build trust with people so they can trust the information?\n\u2022 How to spark constructive discussions?\n\nEffects:\n\u2022 Causes people to mistrust everything \u2014 cannot distinguish truth from lie\n\u2022 Too much information\n\u2022 Fake science \u2014 cannot make our own research, need a trusted baseline\n\u2022 Science is unsure by nature (correlation \u2260 causation)\n\u2022 Peer review is failing (bias, conflict of interest, funding sources)\n\u2022 Propaganda on social networks (Cambridge Analytica)\n\nFinding previously seen information is IMPOSSIBLE:\n\u2022 Even Arte YouTube channel unlists documentaries after some time\n\u2022 Internet Archive + Wayback Machine: https://web.archive.org/\n\nWikipedia has information but:\n\u2022 Not structured for this purpose\n\u2022 Not a place for discussions or opinions\n\u2022 Need to mix facts with opinions while avoiding bot farms",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 122.77916512749894,
+      "y": -1624.699561980992
+    },
+    {
+      "id": "c2",
+      "title": "Fake Research",
+      "description": "Known examples:\n\u2022 BPA\n\u2022 Bees / insects\n\u2022 Cigarettes\n\u2022 Teflon / PFOA / PFAS / PFOS\n\nSee: \"La Fabrique de l'Ignorance\" (Arte)\nhttps://campus.arte.tv/program/la-fabrique-de-l-ignorance",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 613.2251002053749,
+      "y": -1659.2053186958476
+    },
+    {
+      "id": "c3",
+      "title": "Population Dynamics",
+      "description": "World population may start declining around 2075.\nAlready happening in developed countries which started relying on immigration to avoid economic breakdown.\nInadequate policies + mass immigration started their own set of issues.\n\nSee: https://population.un.org/wpp/Graphs/DemographicProfiles/Line/900",
+      "timeframe": "long-term",
+      "scope": "worldwide",
+      "x": -1889.6392598758853,
+      "y": -929.4309750404424
+    },
+    {
+      "id": "w21",
+      "title": "Climate Denialism",
+      "description": "Active denial of climate science.\nFueled by misinformation and fake research funded by fossil fuel lobbying.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 581.1100865280021,
+      "y": -1442.5239798918703
+    },
+    {
+      "id": "w22",
+      "title": "Pesticides",
+      "description": "Killing bees and other pollinators.\nLinked to cancer in humans.\nFake research used to downplay risks.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": -100.09523298567844,
+      "y": -756.1082296310606
+    },
+    {
+      "id": "w23",
+      "title": "Microplastics",
+      "description": "Pervasive contamination of water, food, and air.\nHealth effects still being uncovered.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 193.2549816642517,
+      "y": -674.622949429265
+    },
+    {
+      "id": "w24",
+      "title": "Deforestation",
+      "description": "Forest burning to make space for farming.\nDestroying carbon sinks and biodiversity.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 1210.966197345967,
+      "y": -1239.4486703674338
+    },
+    {
+      "id": "w25",
+      "title": "Overfishing",
+      "description": "Depleting fish stocks faster than they can recover.\nThreatening ocean ecosystems and food security.",
+      "timeframe": "short-term",
+      "scope": "worldwide",
+      "x": 1778.2205239963127,
+      "y": -1421.468620489775
+    },
+    {
+      "id": "w26",
+      "title": "Cost of Living - Why?",
+      "description": "Why did the price increase?\n\nHigh demand:\n\u2022 Immigration\n\u2022 Tourism (Airbnb)\n\u2022 Investment instead of housing (low interest, easy loans, no interest in saving in bank)\n\u2022 Housing is speculation now\n\u2022 Globalization \u2014 anyone can buy anywhere\n\nLow supply:\n\u2022 Slow to build (space is expensive, lack of workforce, high construction cost, concrete is energy intensive, lots of rules)\n\u2022 Return on investment is low \u2192 less construction\n\u2022 Lack of space \u2014 wait for price increase, no need to sell early\n\nPropri\u00e9t\u00e9 fonci\u00e8re: divide resources so they are split between people.",
+      "timeframe": "short-term",
+      "scope": "regional",
+      "x": -1086.490766980158,
+      "y": -2064.5480860744738
+    },
+    {
+      "id": "n1775332368344_1",
+      "title": "Inequalities (Wealth)",
+      "description": "Wealth imbalance (super rich) creates a shift in power.\n\nThe level of wealth is too high, and it can be used to sway the outdated democratic system still in place",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": -177.3195438321294,
+      "y": -2449.005358991758
+    },
+    {
+      "id": "n1775332526903_4",
+      "title": "GreenHouse Gas Emission",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": 1043.6864866941967,
+      "y": -903.8876626477036
+    },
+    {
+      "id": "n1775332602907_10",
+      "title": "Meat Production",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": 1038.5678838852523,
+      "y": -639.4735647045061
+    },
+    {
+      "id": "n1775332659828_12",
+      "title": "Energy",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": 1454.973820592342,
+      "y": -741.3119212963575
+    },
+    {
+      "id": "n1775332690332_14",
+      "title": "Industrial Process",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": 1440.5377528232111,
+      "y": -964.0489542447384
+    },
+    {
+      "id": "n1775332750368_16",
+      "title": "Clean Water",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": 215.35511583080253,
+      "y": -522.0680517793725
+    },
+    {
+      "id": "n1775334635932_6",
+      "title": "War | Instability",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "regional",
+      "x": -839.4063701857801,
+      "y": -963.487545539875
+    },
+    {
+      "id": "n1775334679523_9",
+      "title": "Aging Population",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "societal",
+      "x": -1489.7295992645882,
+      "y": -647.3066341679884
+    },
+    {
+      "id": "n1775335015213_18",
+      "title": "Anti Vaxx",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": -416.7426163924246,
+      "y": -888.3012648165694
+    },
+    {
+      "id": "n1775335108074_21",
+      "title": "Democracy Crisis (Trust)",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": 414.9779068531644,
+      "y": -2154.446035930112
+    },
+    {
+      "id": "n1775335252865_26",
+      "title": "Enshitification",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": -345.31414651740766,
+      "y": -2838.294924983123
+    },
+    {
+      "id": "n1775335953928_30",
+      "title": "CEO/Shareholder Accountability",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "x": 1702.4289228204705,
+      "y": -2265.302111217483
+    },
+    {
+      "id": "n1775336177996_0",
+      "title": "Circular Economy",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "regional",
+      "kind": "solution",
+      "x": 1784.1505834875404,
+      "y": -792.4504049159764
+    },
+    {
+      "id": "n1775336284888_1",
+      "title": "Renewables",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "regional",
+      "kind": "solution",
+      "x": 1736.4867278280612,
+      "y": -601.9540868517078
+    },
+    {
+      "id": "n1775336416694_3",
+      "title": "Spotify",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": -722.3589828333877,
+      "y": -2905.193279035603
+    },
+    {
+      "id": "n1775336433122_4",
+      "title": "Artists get a fraction of the revenues",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": -1154.2841926328533,
+      "y": -2776.229696017794
+    },
+    {
+      "id": "n1775336486075_7",
+      "title": "Netflix",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": -726.5199570180303,
+      "y": -2829.954845336804
+    },
+    {
+      "id": "n1775336516190_10",
+      "title": "Youtube",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": -733.2932317629776,
+      "y": -2759.426620730303
+    },
+    {
+      "id": "n1775336548534_13",
+      "title": "Everything is a subscription",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": 49.62649907948733,
+      "y": -2844.425945762263
+    },
+    {
+      "id": "n1775336586574_15",
+      "title": "Social networks",
+      "description": "Social networks use rage bait, misinformation to drive engagement.\nAnger is the biggest driver of engagement",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": -526.4163717968104,
+      "y": -1812.5402767388077
+    },
+    {
+      "id": "n1775336773485_20",
+      "title": "Sedentary",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": -1498.513444800004,
+      "y": -492.3806315836987
+    },
+    {
+      "id": "n1775336834012_22",
+      "title": "Workout App | Physical Rehabilitation",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "solution",
+      "x": -1171.1029193436775,
+      "y": -419.25430448448594
+    },
+    {
+      "id": "n1775336888512_25",
+      "title": "Consumer Union",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "solution",
+      "x": -86.34772690025694,
+      "y": -2977.027344725089
+    },
+    {
+      "id": "n1775336924825_27",
+      "title": "Wholesome SocialMedia",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": -278.7917571553132,
+      "y": -1997.3587436181522
+    },
+    {
+      "id": "n1775336951925_29",
+      "title": "Dating Apps",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -736.1685870823087,
+      "y": -2680.4243854578935
+    },
+    {
+      "id": "n1775336999339_33",
+      "title": "Meeting App",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": -1736.9881734553476,
+      "y": -1755.8834937675429
+    },
+    {
+      "id": "n1775337035709_35",
+      "title": "Academia Twitter",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 750.1916602755359,
+      "y": -1876.202334969576
+    },
+    {
+      "id": "n1775337064036_37",
+      "title": "Home automation",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 1531.5944800146433,
+      "y": -211.44280126389165
+    },
+    {
+      "id": "n1775337091677_38",
+      "title": "Independent News media",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": -198.20441074269462,
+      "y": -2113.4299833241594
+    },
+    {
+      "id": "n1775337115592_40",
+      "title": "News Outlet owned by Wealthy",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": 85.19560217553379,
+      "y": -2205.590773538472
+    },
+    {
+      "id": "n1775337161724_43",
+      "title": "Raising Insurance Cost",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "regional",
+      "kind": "issue",
+      "x": 942.5865123957818,
+      "y": -1540.5079161432607
+    },
+    {
+      "id": "n1775337181144_45",
+      "title": "AI Drug Discovery",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": -504.8236747793266,
+      "y": -268.01485747233556
+    },
+    {
+      "id": "n1775337221678_49",
+      "title": "3D Printing",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2089.8114498950335,
+      "y": -667.6276748677745
+    },
+    {
+      "id": "n1775337251369_51",
+      "title": "Waste Valorisation",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 1778.3052612833105,
+      "y": -1043.063073001029
+    },
+    {
+      "id": "n1775337530721_53",
+      "title": "AI Coach | Companion",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": -1787.5489894578186,
+      "y": -1610.6144273755128
+    },
+    {
+      "id": "n1775337634670_55",
+      "title": "System Modernisation",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": -1223.579895455487,
+      "y": -266.6739211460474
+    },
+    {
+      "id": "n1775337739895_57",
+      "title": "Local Supplier | Production",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2200.382502335432,
+      "y": -1046.658888387221
+    },
+    {
+      "id": "n1775337865802_60",
+      "title": "Energy Recovery | Heat Recovery",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 1316.4836488268202,
+      "y": -506.232227147815
+    },
+    {
+      "id": "n1775337992254_62",
+      "title": "Renovation | Modernization",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 1387.130266684435,
+      "y": -351.09244769429336
+    },
+    {
+      "id": "n1775341993352_0",
+      "title": "PME Modernization Consultant",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2515.906727663414,
+      "y": -890.4155250384638
+    },
+    {
+      "id": "n1775354525392_2",
+      "title": "Homelessness",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "regional",
+      "kind": "issue",
+      "x": -110.8422118879231,
+      "y": 293.4635603078647
+    },
+    {
+      "id": "n1775354535181_3",
+      "title": "Opioid Epidemic",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "regional",
+      "kind": "issue",
+      "x": -109.41420042607785,
+      "y": 372.06217954333323
+    },
+    {
+      "id": "n1775354569472_4",
+      "title": "Corruption",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "regional",
+      "kind": "issue",
+      "x": -115.15524069044767,
+      "y": 453.42983845152594
+    },
+    {
+      "id": "n1775354599890_5",
+      "title": "Public Transit",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "regional",
+      "kind": "issue",
+      "x": -112.27022334976834,
+      "y": 533.3984803148621
+    },
+    {
+      "id": "n1775354691639_6",
+      "title": "Construction Sand Shortage",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "worldwide",
+      "kind": "issue",
+      "x": 88.04740277279997,
+      "y": -39.45139089696218
+    },
+    {
+      "id": "n1775354742583_7",
+      "title": "River Sand Poaching",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 388.8543297631229,
+      "y": -32.82094249932548
+    },
+    {
+      "id": "n1775354766456_9",
+      "title": "Negative Environment Impact",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 688.6474530811012,
+      "y": -53.65432986798369
+    },
+    {
+      "id": "n1775354828572_11",
+      "title": "Food Designed to be addictive",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -499.5901271648892,
+      "y": -414.7007563596949
+    },
+    {
+      "id": "n1775354952452_13",
+      "title": "Service Economy",
+      "description": "* Creation of more and more bullshit jobs\n* Job satisfaction is low\n* People are looking for things that matters",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1374.8498651013433,
+      "y": -1446.8387859084894
+    },
+    {
+      "id": "n1775355144027_15",
+      "title": "Lufa Farms",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 1876.681744805194,
+      "y": -1217.5351114345776
+    },
+    {
+      "id": "n1775355604099_24",
+      "title": "AI Tutors",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 691.6071140552883,
+      "y": -1966.683850068191
+    },
+    {
+      "id": "n1775355726740_27",
+      "title": "Transparency",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 780.4278134894267,
+      "y": -2285.0718957321023
+    },
+    {
+      "id": "n1775355792079_30",
+      "title": "AI Risk assessment",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 1150.741806514835,
+      "y": -1711.1535301576691
+    },
+    {
+      "id": "n1775355983622_35",
+      "title": "AI Crop Disease Detection",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": -9.178807288539701,
+      "y": -364.38780104573027
+    },
+    {
+      "id": "n1775356029107_37",
+      "title": "AI Diagnostic Help",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": -1205.1127204139282,
+      "y": -173.94376869465606
+    },
+    {
+      "id": "n1775356344937_44",
+      "title": "AI Bias",
+      "description": "I and automated decision-making embedding and amplifying existing discrimination in hiring, lending, policing, healthcare. Links to: Bias & Discrimination, Artificial Intelligence",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1067.7280178923095,
+      "y": 171.8079321274939
+    },
+    {
+      "id": "n1775356373749_46",
+      "title": "E-Waste",
+      "description": "Growing mountain of electronic waste, often exported to developing countries. Toxic materials leaching into soil and water",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 1442.1359863351288,
+      "y": -1054.1934285664213
+    },
+    {
+      "id": "n1775356388493_47",
+      "title": "Digital Divide",
+      "description": " Unequal access to technology and internet, especially in rural and low-income areas. Widens inequality and limits education access. ",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 62.49032770904341,
+      "y": 137.55889135169548
+    },
+    {
+      "id": "n1775356414109_48",
+      "title": "Surveillance Capitalism ",
+      "description": "Personal data as the primary business model of the internet. Drives enshittification, social network toxicity, and erodes privacy. Links to: Enshittification, Social Networks, Democracy Crisis",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -157.89480423957343,
+      "y": -2642.5697664055187
+    },
+    {
+      "id": "n1775356481232_51",
+      "title": "Sexist Medicine",
+      "description": "New meds are often only tested on males because of the fluctuating female hormones that are hard to account for",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -895.5989517472536,
+      "y": -397.6586242750075
+    },
+    {
+      "id": "n1775356587264_56",
+      "title": "Cybersecurity Threats",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1276.235442387343,
+      "y": 7.214753854834612
+    },
+    {
+      "id": "n1775356601377_57",
+      "title": "Planned Obsolescence",
+      "description": "Newer products are more complicated which might make them more convenient but also make them more likely to break",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 171.42027900775668,
+      "y": -2644.395851414079
+    },
+    {
+      "id": "n1775356661059_59",
+      "title": "Automation & Job Displacement",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -858.9765985089424,
+      "y": 357.25214607636326
+    },
+    {
+      "id": "n1775356688652_60",
+      "title": "Regulatory Capture",
+      "description": " Regulators becoming aligned with the industries they're supposed to oversee",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 1137.8105598559919,
+      "y": -2352.031779441276
+    },
+    {
+      "id": "n1775356731311_63",
+      "title": "Tax Evasion and Creative Tax practices",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -796.1092367013509,
+      "y": -2414.8991412488676
+    },
+    {
+      "id": "n1775356758268_65",
+      "title": "Erosion of Labor Rights",
+      "description": "Gig economy, union busting, declining worker protections. ",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -800.5997625447503,
+      "y": -2271.2023142600874
+    },
+    {
+      "id": "n1775356794306_68",
+      "title": "Privatization of Public Services",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1106.0470012066667,
+      "y": -875.2799827347592
+    },
+    {
+      "id": "n1775356803942_69",
+      "title": "New Issue",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1516.0902135930548,
+      "y": -2096.0718063675104
+    },
+    {
+      "id": "n1775356838988_72",
+      "title": "Intellectual Property Overreach",
+      "description": "Patents on seeds (Monsanto), medicines, genes. Restricts access and innovation. ",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -405.38047245309065,
+      "y": 49.2649708372026
+    },
+    {
+      "id": "n1775356887879_73",
+      "title": "Endocrine Disruptors ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1453.0629295397787,
+      "y": 208.0972966929104
+    },
+    {
+      "id": "n1775356896102_74",
+      "title": "Fertility Crisis",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1454.5901634422376,
+      "y": 284.45899181584684
+    },
+    {
+      "id": "n1775356905188_75",
+      "title": "Mental Health Crisis ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1457.6446312471548,
+      "y": 360.8206869387832
+    },
+    {
+      "id": "n1775356920760_76",
+      "title": "Superbug Factory Farming",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1456.1173973446962,
+      "y": 438.70961596417845
+    },
+    {
+      "id": "n1775356935259_77",
+      "title": "Biodiversity Collapse",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1454.5901634422376,
+      "y": 515.071311087115
+    },
+    {
+      "id": "n1775356943346_78",
+      "title": "Soil Degradation ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1460.6990990520724,
+      "y": 599.0691757223451
+    },
+    {
+      "id": "n1775356959813_79",
+      "title": "Permafrost Thaw ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1468.335268564366,
+      "y": 678.485338650199
+    },
+    {
+      "id": "n1775356977956_80",
+      "title": "Invasive Species",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1463.75356685699,
+      "y": 750.2653320657591
+    },
+    {
+      "id": "n1775356982920_81",
+      "title": "Light Pollution",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1466.8080346619072,
+      "y": 825.099793286237
+    },
+    {
+      "id": "n1775357000052_82",
+      "title": "Financialization of Everything ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1129.2893422185282,
+      "y": -2183.55099455746
+    },
+    {
+      "id": "n1775357029226_84",
+      "title": "Debt Trap (Personal & National) ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1468.3352685643663,
+      "y": 899.9342545067148
+    },
+    {
+      "id": "n1775357038376_85",
+      "title": "Shrinkflation / Greedflation",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1471.3897363692836,
+      "y": 973.2414818247339
+    },
+    {
+      "id": "n1775357047778_86",
+      "title": "Concentration of Market Power",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1480.553139784036,
+      "y": 1052.6576447525877
+    },
+    {
+      "id": "n1775357061212_87",
+      "title": "Attention Economy ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1680.6207810061296,
+      "y": 831.208728896072
+    },
+    {
+      "id": "n1775357064780_88",
+      "title": "Generational Wealth Gap",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1680.6207810061296,
+      "y": 759.4287354805117
+    },
+    {
+      "id": "n1775357072411_89",
+      "title": "Epistemic Crisis ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1685.2024827135058,
+      "y": 680.0125725526577
+    },
+    {
+      "id": "n1775357082199_90",
+      "title": "Care Economy Undervaluation",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1669.9301436889184,
+      "y": 597.5419418198862
+    },
+    {
+      "id": "n1775357095129_91",
+      "title": "Urban-Rural Divide ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1669.9301436889184,
+      "y": 512.0168432821974
+    },
+    {
+      "id": "n1775357104592_92",
+      "title": "Cultural Homogenization",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1665.3484419815422,
+      "y": 435.65514815926105
+    },
+    {
+      "id": "n1775357113086_93",
+      "title": "Prison Industrial Complex ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1657.7122724692485,
+      "y": 347.07558181665473
+    },
+    {
+      "id": "n1775357125157_94",
+      "title": "Climate Migration",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1657.7122724692485,
+      "y": 273.76835449863574
+    },
+    {
+      "id": "n1775357135828_95",
+      "title": "Space Debris",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -1660.766740274166,
+      "y": 203.5155949855342
+    }
+  ],
+  "links": [
+    {
+      "id": "l10",
+      "from": "w1",
+      "to": "w10",
+      "label": "driven by"
+    },
+    {
+      "id": "l11",
+      "from": "w1",
+      "to": "w11",
+      "label": "uses"
+    },
+    {
+      "id": "l12",
+      "from": "w11",
+      "to": "w12",
+      "label": "matches pattern"
+    },
+    {
+      "id": "l13",
+      "from": "w2",
+      "to": "w13",
+      "label": ""
+    },
+    {
+      "id": "l14",
+      "from": "w2",
+      "to": "w14",
+      "label": ""
+    },
+    {
+      "id": "l15",
+      "from": "w2",
+      "to": "c2",
+      "label": "funds"
+    },
+    {
+      "id": "l16",
+      "from": "w3",
+      "to": "w15",
+      "label": ""
+    },
+    {
+      "id": "l17",
+      "from": "w3",
+      "to": "w16",
+      "label": ""
+    },
+    {
+      "id": "l18",
+      "from": "w3",
+      "to": "w26",
+      "label": "root causes"
+    },
+    {
+      "id": "l19",
+      "from": "w4",
+      "to": "w17",
+      "label": "causes"
+    },
+    {
+      "id": "l21",
+      "from": "w4",
+      "to": "w21",
+      "label": "denied by"
+    },
+    {
+      "id": "l22",
+      "from": "w19",
+      "to": "w4",
+      "label": "contributes to"
+    },
+    {
+      "id": "l24",
+      "from": "w5",
+      "to": "w24",
+      "label": ""
+    },
+    {
+      "id": "l25",
+      "from": "w5",
+      "to": "w25",
+      "label": ""
+    },
+    {
+      "id": "l26",
+      "from": "w6",
+      "to": "w22",
+      "label": ""
+    },
+    {
+      "id": "l27",
+      "from": "w6",
+      "to": "w23",
+      "label": "causes"
+    },
+    {
+      "id": "l38",
+      "from": "s1",
+      "to": "s9",
+      "label": ""
+    },
+    {
+      "id": "l39",
+      "from": "s9",
+      "to": "c3",
+      "label": ""
+    },
+    {
+      "id": "l40",
+      "from": "c1",
+      "to": "w1",
+      "label": "fuels"
+    },
+    {
+      "id": "l41",
+      "from": "c1",
+      "to": "w4",
+      "label": "denialism"
+    },
+    {
+      "id": "l42",
+      "from": "c1",
+      "to": "w6",
+      "label": "obscures causes"
+    },
+    {
+      "id": "l43",
+      "from": "c1",
+      "to": "w3",
+      "label": "distorts"
+    },
+    {
+      "id": "l44",
+      "from": "c2",
+      "to": "c1",
+      "label": "feeds into"
+    },
+    {
+      "id": "l45",
+      "from": "c2",
+      "to": "w21",
+      "label": "enables"
+    },
+    {
+      "id": "l46",
+      "from": "w4",
+      "to": "w8",
+      "label": "threatens"
+    },
+    {
+      "id": "l47",
+      "from": "w6",
+      "to": "w7",
+      "label": "causes"
+    },
+    {
+      "id": "l48",
+      "from": "w5",
+      "to": "w4",
+      "label": "worsens"
+    },
+    {
+      "id": "l49",
+      "from": "s9",
+      "to": "s6",
+      "label": "drives"
+    },
+    {
+      "id": "l50",
+      "from": "s6",
+      "to": "w11",
+      "label": "exploited as"
+    },
+    {
+      "id": "l51",
+      "from": "w3",
+      "to": "w10",
+      "label": "causes"
+    },
+    {
+      "id": "l52",
+      "from": "w10",
+      "to": "s2",
+      "label": "related to"
+    },
+    {
+      "id": "l53",
+      "from": "s5",
+      "to": "s4",
+      "label": "burdens"
+    },
+    {
+      "id": "l54",
+      "from": "c3",
+      "to": "s1",
+      "label": "underlies"
+    },
+    {
+      "id": "l55",
+      "from": "w14",
+      "to": "w4",
+      "label": "undermines action"
+    },
+    {
+      "id": "l56",
+      "from": "w24",
+      "to": "w4",
+      "label": "worsens"
+    },
+    {
+      "id": "l57",
+      "from": "w22",
+      "to": "w8",
+      "label": "threatens via bees"
+    },
+    {
+      "id": "n1775331770555_1",
+      "from": "w6",
+      "to": "w4",
+      "label": "causes"
+    },
+    {
+      "id": "n1775332274384_0",
+      "from": "w10",
+      "to": "s9",
+      "label": "worsen"
+    },
+    {
+      "id": "n1775332465040_2",
+      "from": "n1775332368344_1",
+      "to": "w2",
+      "label": ""
+    },
+    {
+      "id": "n1775332555372_6",
+      "from": "w20",
+      "to": "n1775332526903_4",
+      "label": "Causes",
+      "weight": 13
+    },
+    {
+      "id": "n1775332562091_8",
+      "from": "n1775332526903_4",
+      "to": "w4",
+      "label": ""
+    },
+    {
+      "id": "n1775332615978_11",
+      "from": "n1775332602907_10",
+      "to": "n1775332526903_4",
+      "label": "Causes",
+      "weight": 6
+    },
+    {
+      "id": "n1775332672002_13",
+      "from": "n1775332659828_12",
+      "to": "n1775332526903_4",
+      "label": "Causes",
+      "weight": 75
+    },
+    {
+      "id": "n1775332701854_15",
+      "from": "n1775332690332_14",
+      "to": "n1775332526903_4",
+      "label": "Causes",
+      "weight": 5
+    },
+    {
+      "id": "n1775333189824_1",
+      "from": "n1775332526903_4",
+      "to": "w18",
+      "label": "Causes"
+    },
+    {
+      "id": "n1775334530159_0",
+      "from": "w19",
+      "to": "n1775332750368_16",
+      "label": ""
+    },
+    {
+      "id": "n1775334533398_1",
+      "from": "w19",
+      "to": "w23",
+      "label": ""
+    },
+    {
+      "id": "n1775334588574_4",
+      "from": "s8",
+      "to": "w1",
+      "label": ""
+    },
+    {
+      "id": "n1775334592734_5",
+      "from": "s3",
+      "to": "c1",
+      "label": ""
+    },
+    {
+      "id": "n1775334650822_7",
+      "from": "n1775334635932_6",
+      "to": "s6",
+      "label": ""
+    },
+    {
+      "id": "n1775334666506_8",
+      "from": "w7",
+      "to": "s4",
+      "label": ""
+    },
+    {
+      "id": "n1775334700470_10",
+      "from": "c3",
+      "to": "n1775334679523_9",
+      "label": ""
+    },
+    {
+      "id": "n1775334704337_11",
+      "from": "n1775334679523_9",
+      "to": "s4",
+      "label": ""
+    },
+    {
+      "id": "n1775334833501_12",
+      "from": "w20",
+      "to": "w8",
+      "label": ""
+    },
+    {
+      "id": "n1775335031763_19",
+      "from": "n1775335015213_18",
+      "to": "s4",
+      "label": ""
+    },
+    {
+      "id": "n1775335039335_20",
+      "from": "c1",
+      "to": "n1775335015213_18",
+      "label": ""
+    },
+    {
+      "id": "n1775335137299_22",
+      "from": "w1",
+      "to": "n1775335108074_21",
+      "label": ""
+    },
+    {
+      "id": "n1775335210082_23",
+      "from": "w9",
+      "to": "w7",
+      "label": ""
+    },
+    {
+      "id": "n1775335230759_25",
+      "from": "n1775332602907_10",
+      "to": "w9",
+      "label": ""
+    },
+    {
+      "id": "n1775335297894_29",
+      "from": "w2",
+      "to": "n1775335108074_21",
+      "label": ""
+    },
+    {
+      "id": "n1775336016917_31",
+      "from": "n1775335953928_30",
+      "to": "w13",
+      "label": ""
+    },
+    {
+      "id": "n1775336267568_0",
+      "from": "n1775336177996_0",
+      "to": "w20",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775336303508_2",
+      "from": "n1775336284888_1",
+      "to": "n1775332659828_12",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775336468252_5",
+      "from": "n1775336433122_4",
+      "to": "n1775336416694_3",
+      "label": ""
+    },
+    {
+      "id": "n1775336470487_6",
+      "from": "n1775336416694_3",
+      "to": "n1775335252865_26",
+      "label": ""
+    },
+    {
+      "id": "n1775336496743_8",
+      "from": "n1775336433122_4",
+      "to": "n1775336486075_7",
+      "label": ""
+    },
+    {
+      "id": "n1775336498947_9",
+      "from": "n1775336486075_7",
+      "to": "n1775335252865_26",
+      "label": ""
+    },
+    {
+      "id": "n1775336527491_11",
+      "from": "n1775336433122_4",
+      "to": "n1775336516190_10",
+      "label": ""
+    },
+    {
+      "id": "n1775336530335_12",
+      "from": "n1775336516190_10",
+      "to": "n1775335252865_26",
+      "label": ""
+    },
+    {
+      "id": "n1775336565355_14",
+      "from": "n1775336548534_13",
+      "to": "n1775335252865_26",
+      "label": ""
+    },
+    {
+      "id": "n1775336612106_16",
+      "from": "n1775336586574_15",
+      "to": "c1",
+      "label": ""
+    },
+    {
+      "id": "n1775336632878_18",
+      "from": "n1775336586574_15",
+      "to": "w10",
+      "label": "fuels"
+    },
+    {
+      "id": "n1775336795078_21",
+      "from": "n1775336773485_20",
+      "to": "s4",
+      "label": "Burdens"
+    },
+    {
+      "id": "n1775336861881_23",
+      "from": "n1775336834012_22",
+      "to": "n1775336773485_20",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775336864561_24",
+      "from": "n1775336834012_22",
+      "to": "s4",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775336900237_26",
+      "from": "n1775336888512_25",
+      "to": "n1775335252865_26",
+      "label": ""
+    },
+    {
+      "id": "n1775336936865_28",
+      "from": "n1775336924825_27",
+      "to": "n1775336586574_15",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775336975236_31",
+      "from": "n1775336951925_29",
+      "to": "n1775335252865_26",
+      "label": ""
+    },
+    {
+      "id": "n1775337013432_34",
+      "from": "n1775336999339_33",
+      "to": "s2",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775337054500_36",
+      "from": "n1775337035709_35",
+      "to": "c2",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775337109923_39",
+      "from": "n1775337091677_38",
+      "to": "c1",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775337133616_41",
+      "from": "n1775337115592_40",
+      "to": "c1",
+      "label": ""
+    },
+    {
+      "id": "n1775337139531_42",
+      "from": "n1775337091677_38",
+      "to": "n1775337115592_40",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775337175411_44",
+      "from": "w4",
+      "to": "n1775337161724_43",
+      "label": ""
+    },
+    {
+      "id": "n1775337197278_46",
+      "from": "n1775337181144_45",
+      "to": "s4",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775337199804_47",
+      "from": "n1775337181144_45",
+      "to": "w9",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775337210299_48",
+      "from": "s7",
+      "to": "n1775337181144_45",
+      "label": ""
+    },
+    {
+      "id": "n1775337238735_50",
+      "from": "n1775337221678_49",
+      "to": "n1775336177996_0",
+      "label": ""
+    },
+    {
+      "id": "n1775337544493_54",
+      "from": "n1775337530721_53",
+      "to": "s2",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775337647660_56",
+      "from": "n1775337634670_55",
+      "to": "s4",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775337755182_58",
+      "from": "n1775337739895_57",
+      "to": "n1775336177996_0",
+      "label": "Enable"
+    },
+    {
+      "id": "n1775337791927_59",
+      "from": "n1775337251369_51",
+      "to": "n1775336177996_0",
+      "label": ""
+    },
+    {
+      "id": "n1775337988208_61",
+      "from": "n1775337865802_60",
+      "to": "n1775336284888_1",
+      "label": ""
+    },
+    {
+      "id": "n1775354757405_8",
+      "from": "n1775354691639_6",
+      "to": "n1775354742583_7",
+      "label": ""
+    },
+    {
+      "id": "n1775354783777_10",
+      "from": "n1775354742583_7",
+      "to": "n1775354766456_9",
+      "label": ""
+    },
+    {
+      "id": "n1775354853573_12",
+      "from": "n1775354828572_11",
+      "to": "s4",
+      "label": ""
+    },
+    {
+      "id": "n1775354966284_14",
+      "from": "n1775354952452_13",
+      "to": "w10",
+      "label": ""
+    },
+    {
+      "id": "n1775355184723_18",
+      "from": "n1775355144027_15",
+      "to": "w8",
+      "label": ""
+    },
+    {
+      "id": "n1775355187775_19",
+      "from": "n1775337739895_57",
+      "to": "n1775355144027_15",
+      "label": ""
+    },
+    {
+      "id": "n1775355420741_21",
+      "from": "n1775335252865_26",
+      "to": "w3",
+      "label": ""
+    },
+    {
+      "id": "n1775355461577_22",
+      "from": "n1775332368344_1",
+      "to": "n1775335108074_21",
+      "label": ""
+    },
+    {
+      "id": "n1775355475762_23",
+      "from": "n1775337115592_40",
+      "to": "n1775335108074_21",
+      "label": ""
+    },
+    {
+      "id": "n1775355639371_25",
+      "from": "n1775355604099_24",
+      "to": "s3",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775355697819_26",
+      "from": "n1775337530721_53",
+      "to": "w10",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775355742288_28",
+      "from": "n1775355726740_27",
+      "to": "w2",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775355749252_29",
+      "from": "n1775355726740_27",
+      "to": "c1",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775355795879_31",
+      "from": "n1775355792079_30",
+      "to": "n1775337161724_43",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775355837971_32",
+      "from": "n1775337091677_38",
+      "to": "w14",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775355919366_33",
+      "from": "w4",
+      "to": "n1775332368344_1",
+      "label": ""
+    },
+    {
+      "id": "n1775355928374_34",
+      "from": "w3",
+      "to": "n1775332368344_1",
+      "label": ""
+    },
+    {
+      "id": "n1775356011346_36",
+      "from": "n1775355983622_35",
+      "to": "w22",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775356040273_38",
+      "from": "n1775356029107_37",
+      "to": "s4",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775356074690_39",
+      "from": "s7",
+      "to": "n1775356029107_37",
+      "label": ""
+    },
+    {
+      "id": "n1775356078702_40",
+      "from": "s7",
+      "to": "n1775355983622_35",
+      "label": ""
+    },
+    {
+      "id": "n1775356097000_41",
+      "from": "s7",
+      "to": "n1775355604099_24",
+      "label": ""
+    },
+    {
+      "id": "n1775356112830_42",
+      "from": "s7",
+      "to": "n1775337530721_53",
+      "label": ""
+    },
+    {
+      "id": "n1775356127182_43",
+      "from": "s7",
+      "to": "n1775355792079_30",
+      "label": ""
+    },
+    {
+      "id": "n1775356358709_45",
+      "from": "s7",
+      "to": "n1775356344937_44",
+      "label": ""
+    },
+    {
+      "id": "n1775356433822_49",
+      "from": "n1775335252865_26",
+      "to": "n1775356414109_48",
+      "label": ""
+    },
+    {
+      "id": "n1775356439043_50",
+      "from": "n1775356414109_48",
+      "to": "n1775335108074_21",
+      "label": ""
+    },
+    {
+      "id": "n1775356521475_52",
+      "from": "n1775356481232_51",
+      "to": "s4",
+      "label": ""
+    },
+    {
+      "id": "n1775356530648_53",
+      "from": "n1775356029107_37",
+      "to": "n1775356481232_51",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775356563940_54",
+      "from": "n1775356373749_46",
+      "to": "w6",
+      "label": ""
+    },
+    {
+      "id": "n1775356568491_55",
+      "from": "n1775336177996_0",
+      "to": "n1775356373749_46",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775356639738_58",
+      "from": "n1775335252865_26",
+      "to": "n1775356601377_57",
+      "label": ""
+    },
+    {
+      "id": "n1775356724835_62",
+      "from": "w13",
+      "to": "n1775356688652_60",
+      "label": ""
+    },
+    {
+      "id": "n1775356751856_64",
+      "from": "n1775356731311_63",
+      "to": "n1775332368344_1",
+      "label": ""
+    },
+    {
+      "id": "n1775356778338_66",
+      "from": "n1775356758268_65",
+      "to": "n1775332368344_1",
+      "label": ""
+    },
+    {
+      "id": "n1775356784925_67",
+      "from": "w3",
+      "to": "n1775356758268_65",
+      "label": ""
+    },
+    {
+      "id": "n1775356811353_70",
+      "from": "n1775356794306_68",
+      "to": "n1775332368344_1",
+      "label": ""
+    },
+    {
+      "id": "n1775356822077_71",
+      "from": "n1775356794306_68",
+      "to": "s4",
+      "label": ""
+    },
+    {
+      "id": "n1775357020804_83",
+      "from": "n1775357000052_82",
+      "to": "w3",
+      "label": ""
+    }
+  ]
+}

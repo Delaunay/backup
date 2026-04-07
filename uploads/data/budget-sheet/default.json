@@ -1,4 +1,16 @@
 {
-  "entries": [],
+  "entries": [
+    {
+      "id": "mnnnyu21xsiu4m",
+      "date": "2026-04-06",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    }
+  ],
   "taxTypes": {}
 }

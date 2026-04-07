@@ -177,8 +177,8 @@
       "description": "Need to favor local production and consumption.\nSupply chain tracking and tracing needed for accountability.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 1791.8425493544987,
-      "y": -853.5976750251881
+      "x": 1822.3042062775407,
+      "y": -744.5770081427216
     },
     {
       "id": "s1",
@@ -294,8 +294,8 @@
       "description": "Killing bees and other pollinators.\nLinked to cancer in humans.\nFake research used to downplay risks.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 947.6517616494633,
-      "y": -974.0100786901721
+      "x": 887.3046906951496,
+      "y": -894.9841524404756
     },
     {
       "id": "w23",
@@ -448,8 +448,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "solution",
-      "x": 2181.43208871839,
-      "y": -893.3386931143809
+      "x": 2094.8048255622525,
+      "y": -1074.1157880133007
     },
     {
       "id": "n1775336284888_1",
@@ -458,8 +458,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "solution",
-      "x": 2279.89125946122,
-      "y": 22.446753780762094
+      "x": 2277.017589415777,
+      "y": -50.83183237804748
     },
     {
       "id": "n1775336416694_3",
@@ -648,8 +648,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2612.6678836309247,
-      "y": -669.025715204712
+      "x": 1835.411157023328,
+      "y": -1525.01315134407
     },
     {
       "id": "n1775337251369_51",
@@ -658,8 +658,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2643.707813434447,
-      "y": -1216.5579292408395
+      "x": 2541.673606716179,
+      "y": -1216.2592451782405
     },
     {
       "id": "n1775337530721_53",
@@ -688,8 +688,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2399.9145019656808,
-      "y": -1115.7577496779004
+      "x": 2070.6910456401743,
+      "y": -1438.223074865164
     },
     {
       "id": "n1775337865802_60",
@@ -698,8 +698,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2593.912786813707,
-      "y": 133.54909320761277
+      "x": 2527.818375768506,
+      "y": 24.34963148075927
     },
     {
       "id": "n1775337992254_62",
@@ -818,8 +818,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 1998.9223085293763,
-      "y": -1252.769259334285
+      "x": 1807.4164834066662,
+      "y": -1306.991772107097
     },
     {
       "id": "n1775355604099_24",
@@ -888,8 +888,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 1453.8267395295697,
-      "y": -898.5262723838534
+      "x": 1756.9989293238605,
+      "y": -1055.141289860525
     },
     {
       "id": "n1775356388493_47",
@@ -1280,6 +1280,126 @@
       "kind": "solution",
       "x": 508.7178575697196,
       "y": -3566.288434747561
+    },
+    {
+      "id": "n1775528428799_0",
+      "title": "Recycling",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2553.213390439667,
+      "y": -977.7250880492995
+    },
+    {
+      "id": "n1775528450327_2",
+      "title": "Repair",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2641.417324310552,
+      "y": -663.1921472763017
+    },
+    {
+      "id": "n1775528531388_6",
+      "title": "Landfill",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 2312.867517463235,
+      "y": -824.1853316000752
+    },
+    {
+      "id": "n1775528590072_9",
+      "title": "Methane Capture",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2643.0117788957127,
+      "y": -848.9905320962021
+    },
+    {
+      "id": "n1775528827807_13",
+      "title": "Unsold Food",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 2892.083247372385,
+      "y": -1169.6274307475194
+    },
+    {
+      "id": "n1775528837569_14",
+      "title": "Wood Offcuts ",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 2895.4413427499408,
+      "y": -1317.721834138588
+    },
+    {
+      "id": "n1775528855154_15",
+      "title": "Industrial Waste",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 2895.0739257088253,
+      "y": -1246.8291193288378
+    },
+    {
+      "id": "n1775528913134_19",
+      "title": "AI Waste Sorting",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2844.8839637458373,
+      "y": -1066.891803522164
+    },
+    {
+      "id": "n1775528966178_22",
+      "title": "Secondary Market",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2637.5039805928795,
+      "y": -584.945279823764
+    },
+    {
+      "id": "n1775529022453_24",
+      "title": "Mass Timber Over Concrete",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2082.0095947222644,
+      "y": -685.8969133049393
+    },
+    {
+      "id": "n1775529051939_26",
+      "title": "Cement Manufacturing",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 2362.5533689622293,
+      "y": -505.1387908117709
+    },
+    {
+      "id": "n1775529867993_28",
+      "title": "New Issue",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 983.009793882481,
+      "y": -1372.6169862535235
     }
   ],
   "links": [
@@ -1815,12 +1935,6 @@
       "kind": "mitigates"
     },
     {
-      "id": "n1775337238735_50",
-      "from": "n1775337221678_49",
-      "to": "n1775336177996_0",
-      "label": ""
-    },
-    {
       "id": "n1775337544493_54",
       "from": "n1775337530721_53",
       "to": "s2",
@@ -2288,6 +2402,102 @@
       "from": "n1775337064036_37",
       "to": "n1775435476928_0",
       "label": ""
+    },
+    {
+      "id": "n1775528548730_7",
+      "from": "n1775528428799_0",
+      "to": "n1775528531388_6",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775528550962_8",
+      "from": "n1775528450327_2",
+      "to": "n1775528531388_6",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775528606833_10",
+      "from": "n1775528590072_9",
+      "to": "n1775528531388_6",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775528683598_11",
+      "from": "n1775337221678_49",
+      "to": "n1775337739895_57",
+      "label": ""
+    },
+    {
+      "id": "n1775528809624_12",
+      "from": "n1775356373749_46",
+      "to": "n1775528531388_6",
+      "label": ""
+    },
+    {
+      "id": "n1775528879764_16",
+      "from": "n1775337251369_51",
+      "to": "n1775528827807_13",
+      "label": ""
+    },
+    {
+      "id": "n1775528882456_17",
+      "from": "n1775337251369_51",
+      "to": "n1775528837569_14",
+      "label": ""
+    },
+    {
+      "id": "n1775528884817_18",
+      "from": "n1775337251369_51",
+      "to": "n1775528855154_15",
+      "label": ""
+    },
+    {
+      "id": "n1775528955288_21",
+      "from": "n1775528913134_19",
+      "to": "n1775528428799_0",
+      "label": ""
+    },
+    {
+      "id": "n1775528976868_23",
+      "from": "n1775528966178_22",
+      "to": "n1775528531388_6",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775529043560_25",
+      "from": "n1775529022453_24",
+      "to": "n1775336177996_0",
+      "label": ""
+    },
+    {
+      "id": "n1775529066679_27",
+      "from": "n1775529022453_24",
+      "to": "n1775529051939_26",
+      "label": "",
+      "kind": "mitigates"
+    },
+    {
+      "id": "n1775529873430_29",
+      "from": "n1775529051939_26",
+      "to": "n1775332659828_12",
+      "label": ""
+    },
+    {
+      "id": "n1775529888966_31",
+      "from": "n1775529051939_26",
+      "to": "n1775332690332_14",
+      "label": ""
+    },
+    {
+      "id": "n1775530010665_33",
+      "from": "n1775528428799_0",
+      "to": "w23",
+      "label": "",
+      "kind": "mitigates"
     }
   ]
 }

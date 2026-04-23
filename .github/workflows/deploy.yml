@@ -45,9 +45,11 @@ jobs:
       if: ${{ github.event.inputs.install_source != 'git' }}
       run: pip install okaasan
 
-    - name: Install Okaasan (git)
+    - name: Install Okaasan (git source)
       if: ${{ github.event.inputs.install_source == 'git' }}
-      run: pip install "okaasan @ git+https://github.com/Delaunay/okaasan@master"
+      run: |
+        git clone https://github.com/Delaunay/okaasan /tmp/okaasan-src
+        pip install -e /tmp/okaasan-src
 
     - name: Build static website
       run: |

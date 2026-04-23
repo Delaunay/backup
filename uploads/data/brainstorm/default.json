@@ -6,8 +6,8 @@
       "description": "Growing far-right movements globally, fueled by unhappiness, misinformation, and scapegoating of immigrants.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": -516.733777915522,
-      "y": -2141.7805046767144
+      "x": -586.4611284895362,
+      "y": -2231.4906081066865
     },
     {
       "id": "w2",
@@ -15,8 +15,8 @@
       "description": "Companies in charge of policies \u2014 fundamental conflict of interest.\nFake research able to impact policies.\nGreen washing: fake Carbon Neutral initiatives (1 step forward, 2 steps backward).",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 643.473731954678,
-      "y": -2538.441481834988
+      "x": 589.35243866773,
+      "y": -2616.689951816585
     },
     {
       "id": "w3",
@@ -24,8 +24,8 @@
       "description": "Rising costs across food, accommodation, and utilities.\nMisinformation distorts public understanding of the real causes.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": -650.9041726992915,
-      "y": -2603.4824435286664
+      "x": -610.7308056976293,
+      "y": -2690.587176570502
     },
     {
       "id": "w4",
@@ -33,8 +33,8 @@
       "description": "Driven by CO2, methane, pollution.\nDenied through misinformation and fake research.\nIncludes climate denialism and fake research.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 950.8090493451017,
-      "y": -1475.3289468234661
+      "x": 968.3859244811382,
+      "y": -1512.1349126048576
     },
     {
       "id": "w5",
@@ -42,8 +42,8 @@
       "description": "Overfishing, deforestation (forest burning to make space for farming), mining, steel, water table / aquifer depletion.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 1609.668964020629,
-      "y": -1775.8176289160112
+      "x": 1564.939570592746,
+      "y": -1947.1325554652867
     },
     {
       "id": "w6",
@@ -51,8 +51,8 @@
       "description": "Causes illness and cancer.\nMicroplastics, pesticides (killing bees, causing cancer), air pollution (nano particles).\n\nMisinformation: fake research, consumer blaming (\"what pollutes the most?\"), buying new \"green\" cars pollutes as well.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 620.0064070306832,
-      "y": -983.8914791570892
+      "x": 806.5003629018433,
+      "y": -1026.0915140471282
     },
     {
       "id": "w7",
@@ -60,8 +60,8 @@
       "description": "COVID sequel \u2014 experts say it is only a matter of time.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": -36.94453302533953,
-      "y": -665.2798086167065
+      "x": 61.35602912077926,
+      "y": -685.6454356781679
     },
     {
       "id": "w8",
@@ -69,8 +69,8 @@
       "description": "Threatened by climate change.\nNeed for new crops.\nCaused by climate change disrupting agriculture.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 1457.8027085504793,
-      "y": -1184.0938744844045
+      "x": 1663.3105013490997,
+      "y": -1073.2192731621421
     },
     {
       "id": "w9",
@@ -78,8 +78,8 @@
       "description": "Growing resistance threatening the effectiveness of medical treatments worldwide.",
       "timeframe": "long-term",
       "scope": "worldwide",
-      "x": 199.18798671172172,
-      "y": -255.4942238304588
+      "x": 231.946139821725,
+      "y": -245.84837023831986
     },
     {
       "id": "w10",
@@ -87,8 +87,8 @@
       "description": "General population discontent driving political extremism.",
       "timeframe": "short-term",
       "scope": "societal",
-      "x": -1210.5731055490016,
-      "y": -2134.939068474292
+      "x": -1290.194967698093,
+      "y": -2264.6977320386363
     },
     {
       "id": "w11",
@@ -96,8 +96,8 @@
       "description": "Immigration used as easy blame target by right-wing movements.\nMatches patterns in Eco's definition of fascism.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": -1051.2242587134942,
-      "y": -1808.9559020478216
+      "x": -1132.144804412126,
+      "y": -1894.3028529696103
     },
     {
       "id": "w12",
@@ -105,8 +105,8 @@
       "description": "Umberto Eco's features of fascism:\n\u2022 Cult of tradition\n\u2022 Rejection of modernism\n\u2022 Disagreement is treason\n\u2022 Fear of difference\n\u2022 Appeal to social frustration\n\u2022 The obsession of a plot\n\u2022 Humiliation by the wealth/force of others\n\u2022 Pacifism is trafficking with the enemy\n\u2022 Contempt for the weak",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": -1081.2385467844376,
-      "y": -1432.9288588466022
+      "x": -1263.792837885169,
+      "y": -1520.5413790086743
     },
     {
       "id": "w13",
@@ -114,8 +114,8 @@
       "description": "Companies directly influencing and controlling policy decisions.\nFundamental conflict of interest between profit and public good.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 1295.6183949285685,
-      "y": -2906.096834706248
+      "x": 1231.4845629829642,
+      "y": -3040.776666425533
     },
     {
       "id": "w14",
@@ -123,8 +123,8 @@
       "description": "Fake Carbon Neutral initiatives.\n1 step forward, 2 steps backward.\nCreates illusion of progress while undermining real climate action.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 921.9372039953618,
-      "y": -2073.254472990419
+      "x": 873.363514792333,
+      "y": -2138.1048209541386
     },
     {
       "id": "w15",
@@ -132,8 +132,8 @@
       "description": "Causes:\n\u2022 Short term rentals (Airbnb)\n\u2022 Company ownership of housing\n\u2022 Foreign investment\n\nHigh demand: immigration, tourism, investment (low interest \u2192 housing speculation), globalization (anyone can buy anywhere).\n\nLow supply: slow to build, expensive space, lack of workforce, high construction cost (concrete is energy intensive), lots of building regulations, lack of space, no need to sell early.\n\nSolutions:\n\u2022 Countryside?\n\u2022 High density\n\u2022 We already have enough housing \u2014 how many are empty?\n\u2022 30% of office space is empty \u2192 transform to housing? (very expensive)\n\u2022 Subventions with conditions",
       "timeframe": "short-term",
       "scope": "regional",
-      "x": -1012.0380705012795,
-      "y": -2627.779985227652
+      "x": -964.7893050999971,
+      "y": -2723.029475625875
     },
     {
       "id": "w16",
@@ -141,8 +141,8 @@
       "description": "Water: over-use and waste.\nElectricity: energy crisis from Ukraine-Russia war.",
       "timeframe": "short-term",
       "scope": "regional",
-      "x": -1259.6371122142639,
-      "y": -2739.086537045104
+      "x": -1182.008906878545,
+      "y": -2877.1666786951005
     },
     {
       "id": "w17",
@@ -150,8 +150,8 @@
       "description": "Thunder, floods, drought, forest fires.\nIncreasing frequency and intensity.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 1363.7321747355904,
-      "y": -1496.9531644995266
+      "x": 1390.9840188547294,
+      "y": -1590.6747172295043
     },
     {
       "id": "w18",
@@ -159,8 +159,8 @@
       "description": "Ocean is the #1 reserve of CO2.\nMore CO2 \u2192 more acid \u2192 coral reef death.\nLong-term cascading effects on marine ecosystems.",
       "timeframe": "long-term",
       "scope": "worldwide",
-      "x": 1552.1416002149151,
-      "y": -58.838582437901515
+      "x": 1444.2859362893153,
+      "y": 59.283799264432965
     },
     {
       "id": "w19",
@@ -168,8 +168,8 @@
       "description": "Textile waste contributing to pollution and resource depletion.\nMassive environmental footprint from production and disposal.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 1134.9716852556112,
-      "y": -833.6461190334713
+      "x": 1151.4969693439841,
+      "y": -832.2304679130395
     },
     {
       "id": "w20",
@@ -177,8 +177,8 @@
       "description": "Need to favor local production and consumption.\nSupply chain tracking and tracing needed for accountability.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 1822.3042062775407,
-      "y": -744.5770081427216
+      "x": 1859.4260827670003,
+      "y": -713.3610249042489
     },
     {
       "id": "s1",
@@ -186,8 +186,8 @@
       "description": "Budgets are Ponzi Schemes \u2014 require endless growth.\nDeclining birth rate undermining the model.\nRelies on mass immigration to keep growing.\n\nHow long will countries let their citizens leave?",
       "timeframe": "short-term",
       "scope": "societal",
-      "x": -2313.415541915016,
-      "y": -1529.820581479971
+      "x": -2322.269008342031,
+      "y": -1579.3366828885628
     },
     {
       "id": "s2",
@@ -195,8 +195,8 @@
       "description": "Growing isolation manifesting as:\n\u2022 Pet hoarding\n\u2022 Incel culture\n\u2022 Addictions",
       "timeframe": "short-term",
       "scope": "societal",
-      "x": -1871.9480438865596,
-      "y": -2157.4749197173956
+      "x": -2041.5256333354253,
+      "y": -2366.579949991827
     },
     {
       "id": "s3",
@@ -204,8 +204,8 @@
       "description": "Chronically low budget.\nUnable to adapt to modern needs and challenges.",
       "timeframe": "short-term",
       "scope": "societal",
-      "x": 57.012941744524085,
-      "y": -1478.6324836853105
+      "x": 44.21081305751305,
+      "y": -1496.476427149229
     },
     {
       "id": "s4",
@@ -213,8 +213,8 @@
       "description": "Low budget.\nStruggling with growing elderly population.",
       "timeframe": "short-term",
       "scope": "societal",
-      "x": -811.6100759254776,
-      "y": -747.5033210603166
+      "x": -759.9333027647215,
+      "y": -762.5643836559289
     },
     {
       "id": "s5",
@@ -222,8 +222,8 @@
       "description": "Driven by food quality and lack of dietary diversity.",
       "timeframe": "short-term",
       "scope": "societal",
-      "x": -1381.9973609353817,
-      "y": -740.6113495225279
+      "x": -1333.6588188917722,
+      "y": -753.9912325733773
     },
     {
       "id": "s6",
@@ -231,8 +231,8 @@
       "description": "Challenges of inclusion and integration at scale.\nDriven by declining birth rate in developed countries.",
       "timeframe": "short-term",
       "scope": "societal",
-      "x": -1507.1233057133747,
-      "y": -1638.9254833655405
+      "x": -1578.7694907510318,
+      "y": -1720.5116744257925
     },
     {
       "id": "s8",
@@ -240,8 +240,8 @@
       "description": "Systemic bias and discrimination embedded in institutions and society.",
       "timeframe": "short-term",
       "scope": "societal",
-      "x": -832.1695911215596,
-      "y": -2285.248417001048
+      "x": -925.4606049215299,
+      "y": -2344.2663424054035
     },
     {
       "id": "s9",
@@ -249,8 +249,8 @@
       "description": "Already happening in developed countries.\nCountries rely on immigration to avoid economic breakdown.\nInadequate policies + mass immigration creates its own set of issues.\n\nWhile world population might start to decline in 2075, it is already happening in developed countries.\n\nSee: https://population.un.org/wpp/Graphs/DemographicProfiles/Line/900",
       "timeframe": "long-term",
       "scope": "societal",
-      "x": -1856.0154646950332,
-      "y": -1705.4026305797502
+      "x": -1901.3381294343835,
+      "y": -1800.6570242540495
     },
     {
       "id": "c1",
@@ -258,8 +258,8 @@
       "description": "Seems to be the crux of our society right now. Everything is impacted.\n\nKey questions:\n\u2022 How to find the right information?\n\u2022 How to reach the person needing the information?\n\u2022 How to build trust with people so they can trust the information?\n\u2022 How to spark constructive discussions?\n\nEffects:\n\u2022 Causes people to mistrust everything \u2014 cannot distinguish truth from lie\n\u2022 Too much information\n\u2022 Fake science \u2014 cannot make our own research, need a trusted baseline\n\u2022 Science is unsure by nature (correlation \u2260 causation)\n\u2022 Peer review is failing (bias, conflict of interest, funding sources)\n\u2022 Propaganda on social networks (Cambridge Analytica)\n\nFinding previously seen information is IMPOSSIBLE:\n\u2022 Even Arte YouTube channel unlists documentaries after some time\n\u2022 Internet Archive + Wayback Machine: https://web.archive.org/\n\nWikipedia has information but:\n\u2022 Not structured for this purpose\n\u2022 Not a place for discussions or opinions\n\u2022 Need to mix facts with opinions while avoiding bot farms",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 102.74897089151077,
-      "y": -1838.510376961301
+      "x": 105.60357879347289,
+      "y": -1890.0578517250426
     },
     {
       "id": "c2",
@@ -267,8 +267,8 @@
       "description": "Known examples:\n\u2022 BPA\n\u2022 Bees / insects\n\u2022 Cigarettes\n\u2022 Teflon / PFOA / PFAS / PFOS\n\nSee: \"La Fabrique de l'Ignorance\" (Arte)\nhttps://campus.arte.tv/program/la-fabrique-de-l-ignorance",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 714.061813385929,
-      "y": -2203.9505605527447
+      "x": 691.2413711700453,
+      "y": -2288.8946017986873
     },
     {
       "id": "c3",
@@ -276,8 +276,8 @@
       "description": "World population may start declining around 2075.\nAlready happening in developed countries which started relying on immigration to avoid economic breakdown.\nInadequate policies + mass immigration started their own set of issues.\n\nSee: https://population.un.org/wpp/Graphs/DemographicProfiles/Line/900",
       "timeframe": "long-term",
       "scope": "worldwide",
-      "x": -2049.778210132359,
-      "y": -1256.0625543506424
+      "x": -2050.6767219508097,
+      "y": -1298.8115980882114
     },
     {
       "id": "w21",
@@ -285,8 +285,8 @@
       "description": "Active denial of climate science.\nFueled by misinformation and fake research funded by fossil fuel lobbying.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 890.1679705303194,
-      "y": -1823.9430050426777
+      "x": 904.2925942947489,
+      "y": -1895.4468118699403
     },
     {
       "id": "w22",
@@ -294,8 +294,8 @@
       "description": "Killing bees and other pollinators.\nLinked to cancer in humans.\nFake research used to downplay risks.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 887.3046906951496,
-      "y": -894.9841524404756
+      "x": 1116.7919775783794,
+      "y": -1019.9339892131775
     },
     {
       "id": "w23",
@@ -303,8 +303,8 @@
       "description": "Pervasive contamination of water, food, and air.\nHealth effects still being uncovered.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 854.5630160854228,
-      "y": -621.0932536035039
+      "x": 1487.7355057697514,
+      "y": -864.6632669952481
     },
     {
       "id": "w24",
@@ -312,8 +312,8 @@
       "description": "Forest burning to make space for farming.\nDestroying carbon sinks and biodiversity.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 1301.6959353250625,
-      "y": -1809.2081832994804
+      "x": 1264.6913318470536,
+      "y": -1892.6161562919826
     },
     {
       "id": "w25",
@@ -321,8 +321,8 @@
       "description": "Depleting fish stocks faster than they can recover.\nThreatening ocean ecosystems and food security.",
       "timeframe": "short-term",
       "scope": "worldwide",
-      "x": 2046.4295603604244,
-      "y": -1972.7961632351246
+      "x": 1964.668712121391,
+      "y": -2244.5581747016413
     },
     {
       "id": "w26",
@@ -330,8 +330,8 @@
       "description": "Why did the price increase?\n\nHigh demand:\n\u2022 Immigration\n\u2022 Tourism (Airbnb)\n\u2022 Investment instead of housing (low interest, easy loans, no interest in saving in bank)\n\u2022 Housing is speculation now\n\u2022 Globalization \u2014 anyone can buy anywhere\n\nLow supply:\n\u2022 Slow to build (space is expensive, lack of workforce, high construction cost, concrete is energy intensive, lots of rules)\n\u2022 Return on investment is low \u2192 less construction\n\u2022 Lack of space \u2014 wait for price increase, no need to sell early\n\nPropri\u00e9t\u00e9 fonci\u00e8re: divide resources so they are split between people.",
       "timeframe": "short-term",
       "scope": "regional",
-      "x": -798.039923596959,
-      "y": -2979.1814868702486
+      "x": -634.9055237087401,
+      "y": -3100.3994114745838
     },
     {
       "id": "n1775332368344_1",
@@ -339,8 +339,8 @@
       "description": "Wealth imbalance (super rich) creates a shift in power.\n\nThe level of wealth is too high, and it can be used to sway the outdated democratic system still in place",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": 17.288684793887036,
-      "y": -2168.4274384299956
+      "x": 37.1001574856478,
+      "y": -2185.1868918601544
     },
     {
       "id": "n1775332526903_4",
@@ -348,8 +348,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": 1462.4243874312208,
-      "y": -543.223469253142
+      "x": 1424.7374329308573,
+      "y": -443.2355993702412
     },
     {
       "id": "n1775332602907_10",
@@ -357,8 +357,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": 881.5494965915103,
-      "y": -194.00755524917224
+      "x": 867.3617671852835,
+      "y": -131.90078302488325
     },
     {
       "id": "n1775332659828_12",
@@ -366,8 +366,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": 1931.308852943976,
-      "y": -115.47674485016078
+      "x": 1885.4115387411482,
+      "y": 90.19990159933491
     },
     {
       "id": "n1775332690332_14",
@@ -375,8 +375,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": 1903.8442879742706,
-      "y": -449.6908452460083
+      "x": 1779.2822134028427,
+      "y": -212.25377964275515
     },
     {
       "id": "n1775332750368_16",
@@ -384,8 +384,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": 1104.2383894844397,
-      "y": -529.1302376193798
+      "x": 1107.9866280025913,
+      "y": -408.58634678036265
     },
     {
       "id": "n1775334635932_6",
@@ -393,8 +393,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "regional",
-      "x": -1684.6001622891017,
-      "y": -1308.88610375112
+      "x": -1808.9985793899182,
+      "y": -1412.0764833857158
     },
     {
       "id": "n1775334679523_9",
@@ -402,8 +402,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "societal",
-      "x": -1593.4216822660235,
-      "y": -937.5729058114814
+      "x": -1533.955070993531,
+      "y": -994.8913923809408
     },
     {
       "id": "n1775335015213_18",
@@ -411,8 +411,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": -365.30731548814157,
-      "y": -1208.7443491054937
+      "x": -359.49897914343904,
+      "y": -1252.0712006878089
     },
     {
       "id": "n1775335108074_21",
@@ -420,8 +420,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": 63.80309432938353,
-      "y": -2560.249149279589
+      "x": -0.8910407126446019,
+      "y": -2683.2969761779023
     },
     {
       "id": "n1775335252865_26",
@@ -429,8 +429,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": -646.8723444031707,
-      "y": -3547.498884829243
+      "x": -663.1726237845713,
+      "y": -3695.9094389481115
     },
     {
       "id": "n1775335953928_30",
@@ -438,8 +438,8 @@
       "description": "",
       "timeframe": "unset",
       "scope": "worldwide",
-      "x": 1773.4940639096924,
-      "y": -2906.8619742084093
+      "x": 1709.7918548398327,
+      "y": -3084.405207514403
     },
     {
       "id": "n1775336177996_0",
@@ -448,8 +448,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "solution",
-      "x": 2094.8048255622525,
-      "y": -1074.1157880133007
+      "x": 2301.4938468032306,
+      "y": -1121.9256778043937
     },
     {
       "id": "n1775336284888_1",
@@ -458,8 +458,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "solution",
-      "x": 2277.017589415777,
-      "y": -50.83183237804748
+      "x": 2293.1497889195666,
+      "y": 397.36627107828554
     },
     {
       "id": "n1775336416694_3",
@@ -468,8 +468,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": -919.5627824155824,
-      "y": -4065.284884464143
+      "x": -928.5735496528407,
+      "y": -4230.929596409757
     },
     {
       "id": "n1775336433122_4",
@@ -478,8 +478,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": -1308.121215669206,
-      "y": -4030.462130295135
+      "x": -1315.9605756785345,
+      "y": -4224.009343946539
     },
     {
       "id": "n1775336486075_7",
@@ -488,8 +488,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": -988.9728556904238,
-      "y": -3820.976717989914
+      "x": -1006.110100640198,
+      "y": -3987.1923887647117
     },
     {
       "id": "n1775336516190_10",
@@ -498,8 +498,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": -1212.604158090904,
-      "y": -3667.4257887400745
+      "x": -1236.3021945354137,
+      "y": -3853.544176232709
     },
     {
       "id": "n1775336548534_13",
@@ -508,8 +508,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": -193.06257149486837,
-      "y": -3992.3802836627992
+      "x": -212.13857897384625,
+      "y": -4176.6976982274855
     },
     {
       "id": "n1775336586574_15",
@@ -518,8 +518,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": -576.9670866846083,
-      "y": -1905.2576714340887
+      "x": -656.2757125277691,
+      "y": -1953.6472931019994
     },
     {
       "id": "n1775336773485_20",
@@ -528,8 +528,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": -1318.7575435391993,
-      "y": -499.1523102339946
+      "x": -1244.41002404403,
+      "y": -530.0849630086949
     },
     {
       "id": "n1775336834012_22",
@@ -538,8 +538,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "solution",
-      "x": -1146.2970678901681,
-      "y": -808.9571396424575
+      "x": -1092.5803923218007,
+      "y": -853.6660991572215
     },
     {
       "id": "n1775336888512_25",
@@ -548,8 +548,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "solution",
-      "x": -570.7547523517346,
-      "y": -3995.1139975742512
+      "x": -594.3233215737058,
+      "y": -4141.418357847659
     },
     {
       "id": "n1775336924825_27",
@@ -558,8 +558,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -723.8969446738768,
-      "y": -1615.0288294492339
+      "x": -840.8419292853308,
+      "y": -1625.033277518897
     },
     {
       "id": "n1775336951925_29",
@@ -568,8 +568,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -983.9124244561831,
-      "y": -3418.1840835294756
+      "x": -1040.543051951697,
+      "y": -3579.822786190192
     },
     {
       "id": "n1775336999339_33",
@@ -578,8 +578,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -2314.3109719128,
-      "y": -2237.3237650280257
+      "x": -2498.7402942000263,
+      "y": -2241.8292536163513
     },
     {
       "id": "n1775337035709_35",
@@ -588,8 +588,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 1157.7147750744066,
-      "y": -2464.1999739053313
+      "x": 1086.7176431934604,
+      "y": -2593.3614734762305
     },
     {
       "id": "n1775337064036_37",
@@ -598,8 +598,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -775.9744360260805,
-      "y": 1632.1839071725778
+      "x": -887.5187999230932,
+      "y": 1809.5732515921754
     },
     {
       "id": "n1775337091677_38",
@@ -608,8 +608,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 581.3943232287538,
-      "y": -2006.7717514094643
+      "x": 459.31470717547336,
+      "y": -2044.2459946124413
     },
     {
       "id": "n1775337115592_40",
@@ -618,8 +618,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": 214.8948701396687,
-      "y": -2413.7001822936268
+      "x": 178.72002046793995,
+      "y": -2367.763601727924
     },
     {
       "id": "n1775337161724_43",
@@ -628,8 +628,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "issue",
-      "x": 635.504583131672,
-      "y": -1449.6006886866219
+      "x": 608.0772026325609,
+      "y": -1458.1532998400255
     },
     {
       "id": "n1775337181144_45",
@@ -638,8 +638,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -320.6581724560052,
-      "y": -346.0268281327207
+      "x": -277.2730917591366,
+      "y": -349.2739856778774
     },
     {
       "id": "n1775337221678_49",
@@ -648,8 +648,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 1835.411157023328,
-      "y": -1525.01315134407
+      "x": 2247.3941255423465,
+      "y": -1912.4067609846195
     },
     {
       "id": "n1775337251369_51",
@@ -658,8 +658,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2541.673606716179,
-      "y": -1216.2592451782405
+      "x": 2922.196429251611,
+      "y": -1441.2051474113325
     },
     {
       "id": "n1775337530721_53",
@@ -668,8 +668,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -1663.486465165223,
-      "y": -2337.2500174777183
+      "x": -1725.416256152854,
+      "y": -2331.5812180838657
     },
     {
       "id": "n1775337634670_55",
@@ -678,8 +678,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -1098.518287843475,
-      "y": -374.277516376969
+      "x": -1045.4943321820053,
+      "y": -388.2573740407153
     },
     {
       "id": "n1775337739895_57",
@@ -688,8 +688,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2070.6910456401743,
-      "y": -1438.223074865164
+      "x": 2317.628085809961,
+      "y": -1550.3937742628193
     },
     {
       "id": "n1775337865802_60",
@@ -698,8 +698,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2527.818375768506,
-      "y": 24.34963148075927
+      "x": 2687.731192889023,
+      "y": 534.6966103448764
     },
     {
       "id": "n1775337992254_62",
@@ -708,8 +708,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -797.7976856313211,
-      "y": 1055.3426312290853
+      "x": -898.111408506906,
+      "y": 1223.8606036341382
     },
     {
       "id": "n1775341993352_0",
@@ -718,8 +718,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -720.036110104146,
-      "y": 1325.582608445084
+      "x": -825.6133479983463,
+      "y": 1505.7073918101935
     },
     {
       "id": "n1775354525392_2",
@@ -728,8 +728,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "issue",
-      "x": -1048.1834640740442,
-      "y": 1039.8969171704189
+      "x": -1146.5175042243122,
+      "y": 1219.6143779723002
     },
     {
       "id": "n1775354535181_3",
@@ -738,8 +738,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "issue",
-      "x": -959.810875590735,
-      "y": 1365.8750609607503
+      "x": -1070.8838542720118,
+      "y": 1525.27540448782
     },
     {
       "id": "n1775354569472_4",
@@ -748,8 +748,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "issue",
-      "x": -1029.3226938401313,
-      "y": 1621.3655521036922
+      "x": -1135.43265608589,
+      "y": 1786.906228325796
     },
     {
       "id": "n1775354599890_5",
@@ -758,8 +758,8 @@
       "timeframe": "unset",
       "scope": "regional",
       "kind": "issue",
-      "x": -1007.752349234248,
-      "y": 1900.9014700495854
+      "x": -1099.091038712182,
+      "y": 2076.1617923028193
     },
     {
       "id": "n1775354691639_6",
@@ -768,8 +768,8 @@
       "timeframe": "unset",
       "scope": "worldwide",
       "kind": "issue",
-      "x": 723.14936972658,
-      "y": 723.6615542254435
+      "x": 754.3788714712548,
+      "y": 782.059310391404
     },
     {
       "id": "n1775354742583_7",
@@ -778,8 +778,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 614.9709561583379,
-      "y": 309.31106771152844
+      "x": 667.1867573151786,
+      "y": 335.2928585496146
     },
     {
       "id": "n1775354766456_9",
@@ -788,8 +788,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 569.2299670457464,
-      "y": -245.78320536465938
+      "x": 636.8856212354876,
+      "y": -282.4648790120574
     },
     {
       "id": "n1775354828572_11",
@@ -798,8 +798,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -504.2548434898566,
-      "y": -682.9197687107336
+      "x": -455.22391710954184,
+      "y": -682.3237437624867
     },
     {
       "id": "n1775354952452_13",
@@ -808,8 +808,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1428.2533903778865,
-      "y": -2401.651135996235
+      "x": -1570.4912973551857,
+      "y": -2610.1730640826027
     },
     {
       "id": "n1775355144027_15",
@@ -818,8 +818,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 1807.4164834066662,
-      "y": -1306.991772107097
+      "x": 1957.4141536947054,
+      "y": -1428.2678071193543
     },
     {
       "id": "n1775355604099_24",
@@ -828,8 +828,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 13.159920175732227,
-      "y": -1112.3580861239896
+      "x": -10.72381214084034,
+      "y": -1117.309970910893
     },
     {
       "id": "n1775355726740_27",
@@ -838,8 +838,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 515.0165577986554,
-      "y": -2312.217308411659
+      "x": 404.8399470861055,
+      "y": -2330.605532564721
     },
     {
       "id": "n1775355792079_30",
@@ -848,8 +848,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 392.28893901697114,
-      "y": -1229.4029017390596
+      "x": 392.35043004118154,
+      "y": -1179.3210289372
     },
     {
       "id": "n1775355983622_35",
@@ -858,8 +858,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 566.0973277910101,
-      "y": -653.4967775710081
+      "x": 764.1229131243293,
+      "y": -683.8110463221559
     },
     {
       "id": "n1775356029107_37",
@@ -868,8 +868,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": -719.1581672136849,
-      "y": -400.9499911354942
+      "x": -657.0854899358417,
+      "y": -377.55218181261307
     },
     {
       "id": "n1775356344937_44",
@@ -878,8 +878,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -978.366549282271,
-      "y": 783.7045644160655
+      "x": -1080.2544410832468,
+      "y": 955.285404341998
     },
     {
       "id": "n1775356373749_46",
@@ -888,8 +888,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 1756.9989293238605,
-      "y": -1055.141289860525
+      "x": 1844.500872908865,
+      "y": -960.5243272753058
     },
     {
       "id": "n1775356388493_47",
@@ -898,8 +898,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1178.581313174134,
-      "y": 1272.94247749396
+      "x": -1301.8914836991423,
+      "y": 1435.4181685108529
     },
     {
       "id": "n1775356414109_48",
@@ -908,8 +908,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -179.03629821843847,
-      "y": -3164.571979803389
+      "x": -155.95460558845343,
+      "y": -3320.9170015063683
     },
     {
       "id": "n1775356481232_51",
@@ -918,8 +918,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -882.1298497265399,
-      "y": -186.217751933467
+      "x": -863.0659773652827,
+      "y": -192.5240454365904
     },
     {
       "id": "n1775356587264_56",
@@ -928,8 +928,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1303.341415190604,
-      "y": 1035.2833132310604
+      "x": -1393.2852731624464,
+      "y": 1165.2189603984307
     },
     {
       "id": "n1775356601377_57",
@@ -938,8 +938,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -292.75946607618505,
-      "y": -3651.566268278416
+      "x": -317.52206187943955,
+      "y": -3822.354277432152
     },
     {
       "id": "n1775356661059_59",
@@ -948,8 +948,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1283.6613647624147,
-      "y": 1523.029410972224
+      "x": -1379.9143233805064,
+      "y": 1704.4228185802804
     },
     {
       "id": "n1775356688652_60",
@@ -958,8 +958,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 1603.8637264269132,
-      "y": -3247.3024518251636
+      "x": 1534.5793382887393,
+      "y": -3402.7087165355865
     },
     {
       "id": "n1775356731311_63",
@@ -968,8 +968,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 36.053583929593984,
-      "y": -2041.5520847173789
+      "x": -248.2316244647721,
+      "y": -2003.396350914495
     },
     {
       "id": "n1775356758268_65",
@@ -978,8 +978,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -358.86473697137666,
-      "y": -2625.338755261046
+      "x": -266.66783313348634,
+      "y": -2564.2429974589845
     },
     {
       "id": "n1775356794306_68",
@@ -988,8 +988,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -419.4377509236299,
-      "y": -1469.4649591797697
+      "x": -421.2458714720447,
+      "y": -1508.0066609904793
     },
     {
       "id": "n1775356838988_72",
@@ -998,8 +998,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1232.1716935565605,
-      "y": 762.2234194007984
+      "x": -1328.415093879528,
+      "y": 903.1286643953571
     },
     {
       "id": "n1775356887879_73",
@@ -1008,8 +1008,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1683.471219474047,
-      "y": 601.1805306369121
+      "x": -1779.9356194139607,
+      "y": 746.027139223292
     },
     {
       "id": "n1775356896102_74",
@@ -1018,8 +1018,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1440.6810855770018,
-      "y": 655.9443561753745
+      "x": -1535.6285952916785,
+      "y": 798.4865392575765
     },
     {
       "id": "n1775356905188_75",
@@ -1028,8 +1028,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1726.3907877409526,
-      "y": 874.4278821969966
+      "x": -1808.6263362410368,
+      "y": 1009.3738507594203
     },
     {
       "id": "n1775356920760_76",
@@ -1038,8 +1038,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1855.8842543927126,
-      "y": 1164.3345335164806
+      "x": -1924.8229690472042,
+      "y": 1322.9808999560012
     },
     {
       "id": "n1775356935259_77",
@@ -1048,8 +1048,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1525.6024391058534,
-      "y": 965.1122021701233
+      "x": -1625.0216784282281,
+      "y": 1137.0211361824347
     },
     {
       "id": "n1775356943346_78",
@@ -1058,8 +1058,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1585.7996666961042,
-      "y": 1610.5495487313985
+      "x": -1662.6377753572287,
+      "y": 1793.5907369592112
     },
     {
       "id": "n1775356959813_79",
@@ -1068,8 +1068,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1852.9313798914568,
-      "y": 1548.7919376677023
+      "x": -1927.9494102013637,
+      "y": 1702.0535387654802
     },
     {
       "id": "n1775356977956_80",
@@ -1078,8 +1078,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1250.1066696077467,
-      "y": 1778.2318720749718
+      "x": -1345.8302095989052,
+      "y": 1964.5239519213326
     },
     {
       "id": "n1775356982920_81",
@@ -1088,8 +1088,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1770.720969093757,
-      "y": 1800.550607432179
+      "x": -1875.7372054928587,
+      "y": 1962.1725698495381
     },
     {
       "id": "n1775357000052_82",
@@ -1098,8 +1098,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1115.1696770468131,
-      "y": -2975.279182510857
+      "x": -958.3703187758268,
+      "y": -3079.7189306792216
     },
     {
       "id": "n1775357029226_84",
@@ -1108,8 +1108,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1490.976421247236,
-      "y": 1856.025563412952
+      "x": -1594.645734067649,
+      "y": 2040.0237981111504
     },
     {
       "id": "n1775357038376_85",
@@ -1118,8 +1118,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1310.9319558375573,
-      "y": 2056.7927995180917
+      "x": -1402.594345297528,
+      "y": 2234.946090641656
     },
     {
       "id": "n1775357047778_86",
@@ -1128,8 +1128,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1667.8050087436136,
-      "y": 2062.655506991248
+      "x": -1762.9496637457212,
+      "y": 2237.7471007257595
     },
     {
       "id": "n1775357061212_87",
@@ -1138,8 +1138,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1983.3273922478509,
-      "y": 1926.6646568380413
+      "x": -2076.7810518939405,
+      "y": 2108.340856460026
     },
     {
       "id": "n1775357064780_88",
@@ -1148,8 +1148,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -2126.1860357446026,
-      "y": 1702.2392907895025
+      "x": -2197.4810105690894,
+      "y": 1868.0712852546028
     },
     {
       "id": "n1775357072411_89",
@@ -1158,8 +1158,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -2024.707583732451,
-      "y": 1398.8141652947934
+      "x": -2113.6294197643397,
+      "y": 1562.655987775269
     },
     {
       "id": "n1775357082199_90",
@@ -1168,8 +1168,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -2280.0080528835356,
-      "y": 1486.477378332624
+      "x": -2364.9927017073273,
+      "y": 1665.4738524551879
     },
     {
       "id": "n1775357095129_91",
@@ -1178,8 +1178,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -2336.8330451152074,
-      "y": 1200.2028495050429
+      "x": -2417.301693258036,
+      "y": 1376.326740012935
     },
     {
       "id": "n1775357104592_92",
@@ -1188,8 +1188,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -2100.065780516022,
-      "y": 1152.0084122140038
+      "x": -2179.064243849298,
+      "y": 1317.3568662983598
     },
     {
       "id": "n1775357113086_93",
@@ -1198,8 +1198,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -2218.336557641223,
-      "y": 882.26706900788
+      "x": -2305.1361327846316,
+      "y": 1051.88291239782
     },
     {
       "id": "n1775357125157_94",
@@ -1208,8 +1208,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1960.0259987753627,
-      "y": 917.1217628723348
+      "x": -2042.2290643395713,
+      "y": 1088.0730058529246
     },
     {
       "id": "n1775357135828_95",
@@ -1218,8 +1218,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1962.8231197454934,
-      "y": 653.3760400706491
+      "x": -2057.2388582873396,
+      "y": 822.030707338926
     },
     {
       "id": "n1775432450361_0",
@@ -1228,8 +1228,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 203.8489296764228,
-      "y": -4261.928039552006
+      "x": 188.92597595658296,
+      "y": -4477.185477841404
     },
     {
       "id": "n1775432490324_2",
@@ -1238,8 +1238,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 990.5708031025372,
-      "y": -4356.936375906384
+      "x": 1004.2765459696083,
+      "y": -4640.41457012978
     },
     {
       "id": "n1775432629972_3",
@@ -1248,8 +1248,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 606.3437032602267,
-      "y": -4401.41805040818
+      "x": 607.5118249021357,
+      "y": -4626.374255845365
     },
     {
       "id": "n1775435476928_0",
@@ -1258,8 +1258,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": -1530.3805129118175,
-      "y": 1319.6791534611384
+      "x": -1623.7756375007323,
+      "y": 1486.924036346085
     },
     {
       "id": "n1775435939450_31",
@@ -1268,8 +1268,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 180.97242098886943,
-      "y": -3383.6367368207016
+      "x": 233.5784421653508,
+      "y": -3577.1148324689557
     },
     {
       "id": "n1775435966143_33",
@@ -1278,8 +1278,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 508.7178575697196,
-      "y": -3566.288434747561
+      "x": 577.6829365509542,
+      "y": -3780.43509630533
     },
     {
       "id": "n1775528428799_0",
@@ -1288,8 +1288,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2553.213390439667,
-      "y": -977.7250880492995
+      "x": 2229.4968944743523,
+      "y": -903.4126194468315
     },
     {
       "id": "n1775528450327_2",
@@ -1298,8 +1298,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2641.417324310552,
-      "y": -663.1921472763017
+      "x": 3048.4886814702504,
+      "y": -664.0756192887732
     },
     {
       "id": "n1775528531388_6",
@@ -1308,8 +1308,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 2312.867517463235,
-      "y": -824.1853316000752
+      "x": 2523.670863385421,
+      "y": -721.3592107739115
     },
     {
       "id": "n1775528590072_9",
@@ -1318,8 +1318,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2643.0117788957127,
-      "y": -848.9905320962021
+      "x": 2799.4840045325564,
+      "y": -861.1375023738497
     },
     {
       "id": "n1775528827807_13",
@@ -1328,8 +1328,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 2892.083247372385,
-      "y": -1169.6274307475194
+      "x": 3349.5769484187144,
+      "y": -1241.1861561453743
     },
     {
       "id": "n1775528837569_14",
@@ -1338,8 +1338,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 2895.4413427499408,
-      "y": -1317.721834138588
+      "x": 3080.847134771228,
+      "y": -1844.321939909261
     },
     {
       "id": "n1775528855154_15",
@@ -1348,8 +1348,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 2895.0739257088253,
-      "y": -1246.8291193288378
+      "x": 3312.799629099121,
+      "y": -1574.0631366193145
     },
     {
       "id": "n1775528913134_19",
@@ -1358,8 +1358,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2844.8839637458373,
-      "y": -1066.891803522164
+      "x": 2809.533659611225,
+      "y": -1101.9408787496225
     },
     {
       "id": "n1775528966178_22",
@@ -1368,8 +1368,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2637.5039805928795,
-      "y": -584.945279823764
+      "x": 2819.363918691695,
+      "y": -388.51919545979393
     },
     {
       "id": "n1775529022453_24",
@@ -1378,8 +1378,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "solution",
-      "x": 2082.0095947222644,
-      "y": -685.8969133049393
+      "x": 2215.4225780390984,
+      "y": -573.9380091312294
     },
     {
       "id": "n1775529051939_26",
@@ -1388,8 +1388,8 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 2362.5533689622293,
-      "y": -505.1387908117709
+      "x": 2151.9093960207024,
+      "y": -139.36772129579163
     },
     {
       "id": "n1775529867993_28",
@@ -1398,8 +1398,58 @@
       "timeframe": "unset",
       "scope": "unset",
       "kind": "issue",
-      "x": 983.009793882481,
-      "y": -1372.6169862535235
+      "x": 1208.5384059661342,
+      "y": -1319.5996313761914
+    },
+    {
+      "id": "n1775561342454_34",
+      "title": "Hikikomori",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": -2414.08957559672,
+      "y": -2618.5149089890624
+    },
+    {
+      "id": "n1776527837941_0",
+      "title": "Composting",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 2856.519514735919,
+      "y": 175.8523817346372
+    },
+    {
+      "id": "n1776527856056_2",
+      "title": "Waste Treatment",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "solution",
+      "x": 3113.1125867632527,
+      "y": -203.78604467514822
+    },
+    {
+      "id": "n1776527868757_3",
+      "title": "Fertilizer",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 2447.1810959947466,
+      "y": -229.02583547725055
+    },
+    {
+      "id": "n1776527965182_7",
+      "title": "Pollutant",
+      "description": "",
+      "timeframe": "unset",
+      "scope": "unset",
+      "kind": "issue",
+      "x": 2800.543379052339,
+      "y": -254.48501902432218
     }
   ],
   "links": [
@@ -2498,6 +2548,36 @@
       "to": "w23",
       "label": "",
       "kind": "mitigates"
+    },
+    {
+      "id": "n1775561357966_35",
+      "from": "s2",
+      "to": "n1775561342454_34",
+      "label": ""
+    },
+    {
+      "id": "n1776527885395_5",
+      "from": "n1776527837941_0",
+      "to": "n1776527868757_3",
+      "label": ""
+    },
+    {
+      "id": "n1776527913118_6",
+      "from": "w8",
+      "to": "n1776527868757_3",
+      "label": ""
+    },
+    {
+      "id": "n1776527986277_8",
+      "from": "n1776527856056_2",
+      "to": "n1776527965182_7",
+      "label": ""
+    },
+    {
+      "id": "n1776527988577_9",
+      "from": "n1776527965182_7",
+      "to": "n1776527868757_3",
+      "label": ""
     }
   ]
 }

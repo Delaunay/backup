@@ -1,0 +1,47 @@
+{
+  "spools": [
+    {
+      "id": "mo7i8ltap4z2q5",
+      "name": "PLA Red",
+      "material": "PLA",
+      "color": "Red",
+      "weightG": 1000,
+      "priceDollars": 15
+    },
+    {
+      "id": "mo7iav91i2x3y4",
+      "name": "PLA Black",
+      "material": "PLA",
+      "color": "Black",
+      "weightG": 1000,
+      "priceDollars": 15
+    }
+  ],
+  "items": [
+    {
+      "id": "mo7i8wn2g612eq",
+      "objectName": "Toy Red",
+      "spoolId": "mo7i8ltap4z2q5",
+      "gramsPerUnit": 13.76,
+      "units": 50,
+      "printTimeMinutes": 24,
+      "batchSize": 20
+    },
+    {
+      "id": "mo7iabby3hikyw",
+      "objectName": "Toy Black",
+      "spoolId": "mo7iav91i2x3y4",
+      "gramsPerUnit": 13.76,
+      "units": 50,
+      "printTimeMinutes": 24,
+      "batchSize": 20
+    }
+  ],
+  "misprintMargin": 20,
+  "designTimeHours": 0.5,
+  "designTimeRate": 70,
+  "opportunityCostPerMin": 0,
+  "wearCostPerMin": 0.01,
+  "plateChangeMinutes": 5,
+  "operatorHoursPerDay": 8
+}

@@ -1,4 +1,38 @@
 {
-  "entries": [],
+  "entries": [
+    {
+      "id": "mobptb7gorbfln",
+      "date": "2025-01-01",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    },
+    {
+      "id": "mobptbcfju9vh3",
+      "date": "2025-01-01",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    },
+    {
+      "id": "mobptbgnjk9pvw",
+      "date": "2025-01-01",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    }
+  ],
   "taxTypes": {}
 }

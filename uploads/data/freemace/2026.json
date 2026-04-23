@@ -1,4 +1,71 @@
 {
-  "entries": [],
+  "entries": [
+    {
+      "id": "mobpt360srp2rv",
+      "date": "2026-04-23",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    },
+    {
+      "id": "mobpt3b7j0pgt1",
+      "date": "2026-04-23",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    },
+    {
+      "id": "mobpt3gbrnn30j",
+      "date": "2026-04-23",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    },
+    {
+      "id": "mobpt3kz6kp3vo",
+      "date": "2026-04-23",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    },
+    {
+      "id": "mobpt3pkne1n31",
+      "date": "2026-04-23",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    },
+    {
+      "id": "mobpt3tv346bni",
+      "date": "2026-04-23",
+      "amount": 0,
+      "type": "",
+      "from": "",
+      "bank": "",
+      "details": "",
+      "adjustment": 1,
+      "comment": ""
+    }
+  ],
   "taxTypes": {}
 }

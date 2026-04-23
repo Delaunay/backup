@@ -1,12 +1,14 @@
 {
-  "hidden": [],
+  "hidden": [
+    "Units"
+  ],
   "static_hidden": [
-    "Inventory & Shopping",
     "Planning",
-    "Home Management",
+    "Expense Tracker",
     "Investing",
     "Health",
-    "Units",
-    "Expense Tracker"
+    "Home Management",
+    "Inventory & Shopping",
+    "Units"
   ]
 }

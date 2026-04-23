@@ -4,6 +4,15 @@ on:
   push:
     branches: [ main, master ]
   workflow_dispatch:
+    inputs:
+      install_source:
+        description: 'Install okaasan from PyPI or from git (latest source)'
+        required: false
+        default: 'pypi'
+        type: choice
+        options:
+          - pypi
+          - git
 
 permissions:
   contents: read
@@ -32,14 +41,19 @@ jobs:
       with:
         node-version: '18'
 
-    - name: Install Okaasan
+    - name: Install Okaasan (PyPI)
+      if: ${{ github.event.inputs.install_source != 'git' }}
       run: pip install okaasan
+
+    - name: Install Okaasan (git)
+      if: ${{ github.event.inputs.install_source == 'git' }}
+      run: pip install "okaasan @ git+https://github.com/Delaunay/okaasan@master"
 
     - name: Build static website
       run: |
-        python -m okaasan static \
-          --base_path "/backup/" \
-          --api_url "/backup/api"
+        okaasan static \
+          --base_path "/website/" \
+          --api_url "/website/api"
       env:
         OKAASAN_DATA: ${{ github.workspace }}
 

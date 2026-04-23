@@ -52,6 +52,7 @@ jobs:
     - name: Build static website
       run: |
         okaasan static \
+          --output "${{ github.workspace }}/static_build" \
           --base_path "/website/" \
           --api_url "/website/api"
       env:

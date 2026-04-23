@@ -5,7 +5,7 @@ After=network.target
 [Service]
 Type=simple
 User=setepenre
-WorkingDirectory=/home/setepenre/work/website/recipes/recipes/ui
+WorkingDirectory=/home/setepenre/work/website/recipes/okaasan/ui
 Environment=NODE_ENV=development
 Environment=HOME=/home/setepenre
 Environment=PATH=/home/setepenre/.nvm/versions/node/v22.17.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin

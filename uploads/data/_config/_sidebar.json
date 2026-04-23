@@ -1,3 +1,10 @@
 {
-  "hidden": []
+  "hidden": [],
+  "static_hidden": [
+    "Inventory & Shopping",
+    "Planning",
+    "Home Management",
+    "Investing",
+    "Health"
+  ]
 }

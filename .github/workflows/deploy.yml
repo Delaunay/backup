@@ -8,7 +8,7 @@ on:
       install_source:
         description: 'Install okaasan from PyPI or from git (latest source)'
         required: false
-        default: 'pypi'
+        default: 'git'
         type: choice
         options:
           - pypi

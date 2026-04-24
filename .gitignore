@@ -6,3 +6,9 @@ usda_fdc/
 projects/
 
 ./recipes/
+
+
+uploads/data/_config/_gcalendar_key.json
+uploads/data/_config/_gcalendar.json
+
+*_secret.json

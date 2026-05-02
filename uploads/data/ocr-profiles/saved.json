@@ -38,5 +38,13 @@
     "priceRegex": "\\d+[.,]\\d{2}",
     "skipPatterns": "TOTAL,TAX,SUBTOTAL,SOUS-TOTAL,MONTANT,BALANCE,CASH,CARD,CHANGE,VISA,MASTERCARD,DEBIT,CREDIT,MERCI,THANK,TPS,TVQ,GST,HST,QST",
     "lang": "en"
+  },
+  {
+    "name": "Profile 6",
+    "priceColumnStart": 0.6,
+    "rowMergeDistance": 0.025,
+    "priceRegex": "\\d+[.,]\\d{2}",
+    "skipPatterns": "TOTAL,TAX,SUBTOTAL,SOUS-TOTAL,MONTANT,BALANCE,CASH,CARD,CHANGE,VISA,MASTERCARD,DEBIT,CREDIT,MERCI,THANK,TPS,TVQ,GST,HST,QST",
+    "lang": "en"
   }
 ]

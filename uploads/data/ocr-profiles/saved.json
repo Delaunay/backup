@@ -14,5 +14,13 @@
     "priceRegex": "$\\d+[.,]\\d{2}",
     "skipPatterns": "",
     "lang": "en"
+  },
+  {
+    "name": "Newon",
+    "priceColumnStart": 0.6,
+    "rowMergeDistance": 0.005,
+    "priceRegex": "\\$\\d+[.,]\\d{2}",
+    "skipPatterns": "",
+    "lang": "en"
   }
 ]
